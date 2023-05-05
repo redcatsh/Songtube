@@ -2,13 +2,18 @@ import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { Link } from "react-router-dom";
 import { timeForToday } from "../../utils/util";
-export default function Result() {
+import { useParams } from "react-router-dom";
+export default function SearchResult() {
+  const { keyword } = useParams();
   const {
     isLoading,
     error,
     data: search,
-  } = useQuery(["search"], async () => {
-    return fetch(`data/search.json`).then((res) => res.json());
+  } = useQuery(["search", keyword], async () => {
+    // return fetch(
+    //   `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${keyword}&key=***REMOVED***`
+    // )
+    return fetch(`/data/search.json`).then((res) => res.json());
   });
 
   if (isLoading) return <p>Loading...</p>;

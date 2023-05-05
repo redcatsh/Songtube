@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { IoIosSearch } from "react-icons/io";
 import { useNavigate } from "react-router-dom";
+
 export default function Search() {
   const navigate = useNavigate();
   const [word, setWord] = useState("");
@@ -9,7 +10,7 @@ export default function Search() {
   };
   const handleSubmit = (e) => {
     e.preventDefault();
-    navigate(`/${word}`);
+    navigate(`result/${word}`);
   };
   return (
     <div>
