@@ -22,9 +22,13 @@ export default function Popular() {
               src={String(item.snippet.thumbnails.medium.url)}
               alt="thumbnail"
             />
-            <h5>{item.snippet.title}</h5>
-            <p>{item.snippet.channelTitle}</p>
-            <p>{timeForToday(item.snippet.publishedAt)}</p>
+            <h5 className="font-medium">{item.snippet.title}</h5>
+            <p className="text-slate-500 text-sm">
+              {item.snippet.channelTitle}
+            </p>
+            <p className="text-slate-500 text-sm">
+              {timeForToday(item.snippet.publishedAt)}
+            </p>
           </li>
         ))}
       </ul>
