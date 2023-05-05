@@ -1,6 +1,6 @@
 import React from "react";
 import { useQuery } from "@tanstack/react-query";
-import { timeForToday } from "../../utils/time";
+import { timeForToday } from "../../utils/util";
 export default function Popular() {
   const {
     isLoading,
@@ -27,7 +27,16 @@ export default function Popular() {
               {item.snippet.channelTitle}
             </p>
             <p className="text-slate-500 text-sm">
-              {timeForToday(item.snippet.publishedAt)}
+              {new Intl.NumberFormat(
+                "ko-KR",
+
+                {
+                  notation: "compact",
+                  maximumFractionDigits: 1,
+                  maximumSignificantDigits: 3,
+                }
+              ).format(item.statistics.viewCount)}
+              회 ∙{timeForToday(item.snippet.publishedAt)}
             </p>
           </li>
         ))}
