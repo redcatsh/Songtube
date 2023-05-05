@@ -1,5 +1,6 @@
 import React from "react";
 import { useQuery } from "@tanstack/react-query";
+import { timeForToday } from "../../utils/time";
 export default function Popular() {
   const {
     isLoading,
@@ -18,10 +19,12 @@ export default function Popular() {
         {popular.items.map((item) => (
           <li key={item.id}>
             <img
-              src={String(item.snippet.thumbnails.default.url)}
+              src={String(item.snippet.thumbnails.medium.url)}
               alt="thumbnail"
             />
             <h5>{item.snippet.title}</h5>
+            <p>{item.snippet.channelTitle}</p>
+            <p>{timeForToday(item.snippet.publishedAt)}</p>
           </li>
         ))}
       </ul>
