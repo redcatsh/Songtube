@@ -7,7 +7,7 @@ export const timeForToday = (value) => {
   const betweenTime = Math.floor(
     (today.getTime() - timeValue.getTime()) / 1000 / 60
   );
-  if (betweenTime < 1) return "방금전";
+  if (betweenTime < 1) return "방금 전";
   if (betweenTime < 60) {
     return `${betweenTime}분 전`;
   }
@@ -18,9 +18,18 @@ export const timeForToday = (value) => {
   }
 
   const betweenTimeDay = Math.floor(betweenTime / 60 / 24);
-  if (betweenTimeDay < 365) {
+  if (betweenTimeDay < 7) {
     return `${betweenTimeDay}일 전`;
   }
 
-  return `${Math.floor(betweenTimeDay / 365)}년전`;
+  const betweenTimeWeek = Math.floor(betweenTime / 60 / 24 / 7);
+  if (betweenTimeWeek < 5) {
+    return `${betweenTimeWeek}주 전`;
+  }
+  if (betweenTimeDay > 365) {
+    return `${Math.floor(betweenTimeDay / 365)}년 전`;
+  }
+  if (betweenTimeDay > 31) {
+    return `${Math.floor(betweenTimeDay / 30)}개월 전`;
+  }
 };

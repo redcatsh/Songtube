@@ -1,10 +1,9 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import { timeForToday } from "../../utils/util";
 import { Link } from "react-router-dom";
+import "../Popular/Popular.css";
 export default function Popular() {
-  const navigate = useNavigate();
   const {
     isLoading,
     error,
@@ -20,17 +19,16 @@ export default function Popular() {
     <div>
       <ul>
         {popular.items.map((item) => (
-          <Link to={`/${item.id}`}>
-            <li key={item.id}>
+          <Link to={`/${item.id}`} className="videoItem" key={item.id}>
+            <li>
               <img
                 src={String(item.snippet.thumbnails.medium.url)}
                 alt="thumbnail"
               />
-              <h5 className="font-medium">{item.snippet.title}</h5>
+              <h5 className="font-medium title">{item.snippet.title}</h5>
               <p className="text-slate-500 text-sm">
                 {item.snippet.channelTitle}
               </p>
-              <p>{item.id}</p>
               <p className="text-slate-500 text-sm">
                 {new Intl.NumberFormat(
                   "ko-KR",
