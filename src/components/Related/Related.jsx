@@ -22,7 +22,12 @@ export default function Related() {
     <div>
       <ul>
         {related.items.map((item) => (
-          <Link to={`/${item.id.videoId}`} className="videoItem" key={item.id}>
+          <Link
+            to={`/${item.id.videoId}`}
+            state={{ item }} // 전달할 state!
+            className="videoItem"
+            key={item.id}
+          >
             <li>
               <img
                 src={String(item.snippet.thumbnails.medium.url)}

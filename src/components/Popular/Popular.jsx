@@ -19,7 +19,12 @@ export default function Popular() {
     <div>
       <ul>
         {popular.items.map((item) => (
-          <Link to={`/${item.id}`} className="videoItem" key={item.id}>
+          <Link
+            to={`/${item.id}`}
+            state={{ item }} // 전달할 state!
+            className="videoItem"
+            key={item.id}
+          >
             <li>
               <img
                 src={String(item.snippet.thumbnails.medium.url)}
