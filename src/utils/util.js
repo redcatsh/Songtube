@@ -33,3 +33,8 @@ export const timeForToday = (value) => {
     return `${Math.floor(betweenTimeDay / 30)}개월 전`;
   }
 };
+
+// NumberFormat
+export const compactNumberFormatter = new Intl.NumberFormat("ko", {
+  notation: "compact",
+});

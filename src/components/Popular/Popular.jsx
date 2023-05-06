@@ -2,6 +2,7 @@ import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { timeForToday } from "../../utils/util";
 import { Link } from "react-router-dom";
+import * as common from "../../utils/util";
 import "../Popular/Popular.css";
 export default function Popular() {
   const {
@@ -35,15 +36,9 @@ export default function Popular() {
                 {item.snippet.channelTitle}
               </p>
               <p className="text-slate-500 text-sm">
-                {new Intl.NumberFormat(
-                  "ko-KR",
-
-                  {
-                    notation: "compact",
-                    maximumFractionDigits: 1,
-                    maximumSignificantDigits: 3,
-                  }
-                ).format(item.statistics.viewCount)}
+                {common.compactNumberFormatter.format(
+                  item.statistics.viewCount
+                )}
                 회 ∙{timeForToday(item.snippet.publishedAt)}
               </p>
             </li>

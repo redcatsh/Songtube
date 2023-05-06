@@ -1,6 +1,7 @@
 import React from "react";
 import { useParams, useLocation } from "react-router-dom";
 import Related from "../components/Related/Related";
+import Channel from "../components/Channel/Channel";
 export default function VideoDetail() {
   const { videoId } = useParams();
   const {
@@ -19,6 +20,7 @@ export default function VideoDetail() {
           frameborder="0"
         ></iframe>
         <h5>{item.snippet.title}</h5>
+        <Channel />
       </div>
       <Related />
     </div>

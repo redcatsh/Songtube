@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "fu3FGZsQfN6KVh8_PGUN2gqQPCs",
+  "etag": "27yo3DrgjT-XC2LuVFD3JO0unqs",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,7 +8,7 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "lkQAcGvlPXXenK2TwOadKxw477U",
+      "etag": "_Q1_ARONBtN69ZQ7QVJUII1skog",
       "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
       "snippet": {
         "title": "Google Developers",
@@ -37,6 +37,18 @@
           "description": "The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.\n\nSubscribe to Google Developers → https://goo.gle/developers\n"
         },
         "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU_x5XG1OV2P6uZZ5FSM9Ttw"
+        }
+      },
+      "statistics": {
+        "viewCount": "211549052",
+        "subscriberCount": "2280000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "5782"
       }
     }
   ]
