@@ -1,230 +1,1110 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "zZYygiRCnOuaANsWmvlrQ5SRhhU",
-  "nextPageToken": "CAUQAA",
+  "etag": "EzbPFKu_nR7e2PbeFa3e2Vo85Jg",
+  "nextPageToken": "CBkQAA",
   "pageInfo": {
-    "totalResults": 153,
-    "resultsPerPage": 5
+    "totalResults": 77,
+    "resultsPerPage": 25
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "jD08y-NoucUj6DcYqMqKPyYcJm0",
+      "etag": "fE4pek84PP65s-rMqtcFr0QONbg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "RKK7wGAYP6k"
+        "videoId": "C_dzgR56T10"
       },
       "snippet": {
-        "publishedAt": "2018-04-05T20:17:43Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How language shapes the way we think | Lera Boroditsky",
-        "description": "There are about 7,000 languages spoken around the world -- and they all have different sounds, vocabularies and structures. But do they shape the way we think? Cognitive scientist Lera Boroditsky shares examples of language -- from an Aboriginal community in Australia that uses cardinal directions instead of left and right to the multiple words for blue in Russian -- that suggest the answer is a resounding yes. \"The beauty of linguistic diversity is that it reveals to us just how ingenious and how flexible the human mind is,\" Boroditsky says. \"Human minds have invented not one cognitive universe, but 7,000.\"\n\nCheck out more TED Talks: http://www.ted.com\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
+        "publishedAt": "2023-03-02T06:22:08Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 봄을 담은, 재즈",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 봄을 담은, 재즈\n\n(1 Loop 39’ 27’’) Cover\n00:00 Tangerine\n03:35 April Skies\n08:29 It's A Lovely Day Today\n12:26 Don't Get Around Much Anymore\n16:19 They Say It's Spring\n21:07 Suddenly It's Spring\n24:29 Falling In Love Again\n28:08 Bluesette\n31:33 Up Jumped Spring\n35:46 Joy Spring\n39:27 Playlist | 봄을 담은, 재즈\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 하니, 란주, 나찬, 보비, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/default.jpg",
+            "url": "https://i.ytimg.com/vi/C_dzgR56T10/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/C_dzgR56T10/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/C_dzgR56T10/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/C_dzgR56T10/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/C_dzgR56T10/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "기분Jazz네",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-04-05T20:17:43Z"
+        "publishTime": "2023-03-02T06:22:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "-XzEGV5Th1BKTT1p18AoMko7V18",
+      "etag": "VihdmqvqXawoyIqO60it5Ctn4KI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "VRJzvJ5XPQI"
+        "videoId": "GRQPySl10s0"
       },
       "snippet": {
-        "publishedAt": "2021-10-15T19:29:36Z",
-        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
-        "title": "Body Language Expert Explains How to Show Confidence | WIRED",
-        "description": "Former FBI agent and body language expert Joe Navarro explains how we can project confidence through our body language. Joe takes a look at various celebrities and politicians and demonstrates the things that they do that can help them appear more confident. \r\n\r\nCheck out Joe's book \"Be Exceptional\"\r\nhttps://www.amazon.com/Be-Exceptional-Master-Traits-Extraordinary-ebook/dp/B08K93BLQP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=\r\n\r\nhttps://www.jnforensics.com/ \r\n\r\nBooks By Joe Navarro: https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy: https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nFollow WIRED:\r\n\r\nInstagram ►►https://instagram.com/wired\r\nTwitter ►►http://www.twitter.com/wired\r\nFacebook ►►https://www.facebook.com/wired\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. \r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.",
+        "publishedAt": "2023-03-10T09:46:31Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 기분 좋은 하루를 만드는, 보사노바",
+        "description": "Playlist | 기분 좋은 하루를 만드는, 보사노바\n\n(1 Loop 39’ 09’’) Cover\n00:00 Just Friends\n03:17 Bossa Antigua\n06:05 Alice In Wonderland\n10:54 Little Boat\n14:44 Fruit Shop (작곡)\n18:43 If You Never Come To Me\n23:09 There Will Never Be Another You\n26:29 Orange Highway (작곡)\n31:14 There Is No Greater Love\n34:45 I Wish You Love\n39:09 Playlist | 기분 좋은 하루를 만드는, 보사노바\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 하니, 란주, 보비, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/default.jpg",
+            "url": "https://i.ytimg.com/vi/GRQPySl10s0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GRQPySl10s0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GRQPySl10s0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/GRQPySl10s0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GRQPySl10s0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "WIRED",
+        "channelTitle": "기분Jazz네",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-10-15T19:29:36Z"
+        "publishTime": "2023-03-10T09:46:31Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "sW_FVbey1Fa0C8FzAvwBHbU6u9Q",
+      "etag": "BL82wKffArDPE1-q3Hjg-c4xfvk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "6qfbpBzqitA"
+        "videoId": "JhR5WpqOIEM"
       },
       "snippet": {
-        "publishedAt": "2023-01-05T10:22:54Z",
-        "channelId": "UC8IeZjh8w-Q9ubcmOcgWB1w",
-        "title": "Brené Brown Leaves the Audience SPEECHLESS | One of the Best Motivational Speeches Ever",
-        "description": "Casandra Brené Brown is an American professor, lecturer, author, and podcast host. Brown is known in particular for her research on shame, vulnerability, and leadership, and for her widely viewed TEDx talk in 2010. Brené has saved the lives of many through her work.\n\nSubscribe for Motivational Videos Every Week! http://bit.do/eQnpo\n\nGet Your Merchandise Now: \nhttps://teespring.com/stores/motivationalinstinct\n\nFollow us on:\nInstagram: https://www.instagram.com/motivationalinstinct/\nContact: liveyourlifewithoutlimits97@gmail.com\n\nDisclaimer:\nThis video was fully edited and licensed by Motivational Instinct Studio\n\nSpeacial thanks to Marie Forleo\nWebsite: https://www.marieforleo.com/\nFacebook: http://www.Facebook.com/marieforleo\nTwitter: http://www.twitter.com/marieforleo\nInstagram: http://www.instagram.com/marieforleo\nYouTube: http://www.youtube.com/marieforleo\n\nSpeaker: Brené Brown\nWebsite: https://brenebrown.com/\nFacebook: https://www.facebook.com/brenebrown/\nInstagram: https://www.instagram.com/brenebrown/\nTwitter: https://twitter.com/BreneBrown\n\nMusic: Licensed from Ibi\nYoutube: https://www.youtube.com/ibiberlin\nAmazon Music: https://music.amazon.com/artists/B01AH2NAZM/ibi\nSpotify: http://bit.ly/spotify_ibi\nItunes/apple: https://apple.co/3uvATsE\nMore links: https://www.ibipiano.com/links\n\nAll footage used in our videos are licensed through StoryBlocks, FilmPac and Artgrid. We own commercial licenses for all the content used in our videos.\n\n•FAIR USE DISCLAIMER•\n\n1)This video has no negative impact on the original works\n2)This video is also for teaching purposes\n3)It is transformative in nature\n4)I only used bits and pieces of the videos  to get point across where necessary\n\nKeywords: motivation, inspiration, success, inspirational video, successful life, grind, work hard, discipline, never give up, morning daily motivation, motivational video.",
+        "publishedAt": "2023-02-20T09:29:45Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 파리의 포근한 햇살이 느껴지는, 재즈",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 파리의 포근한 햇살이 느껴지는, 재즈\n\n(1 Loop 40’ 48’’) Cover\n00:00 The last time I saw Paris\n03:56 Afternoon in paris\n07:54 Si Tu Vois Ma Mere\n12:45 Autumn Leaves\n17:57 I Love Paris\n21:41 L'amour, Les baguettes, Paris\n26:45 Comment te dire adieu\n30:30 April In Paris\n36:25 C'est si bon\n40:48 Playlist | 파리의 포근한 햇살이 느껴지는, 재즈\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 란주, 하니, 앙도, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/6qfbpBzqitA/default.jpg",
+            "url": "https://i.ytimg.com/vi/JhR5WpqOIEM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/6qfbpBzqitA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JhR5WpqOIEM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/6qfbpBzqitA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JhR5WpqOIEM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/6qfbpBzqitA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/JhR5WpqOIEM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/6qfbpBzqitA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JhR5WpqOIEM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Motivational Instinct",
+        "channelTitle": "기분Jazz네",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-01-05T10:22:54Z"
+        "publishTime": "2023-02-20T09:29:45Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "FSp3UrxEPbPD3bKbX6N_mF7yu68",
+      "etag": "-VTupS-O-MU4wMkzA2YKui5Bk6I",
       "id": {
         "kind": "youtube#video",
-        "videoId": "LNHBMFCzznE"
+        "videoId": "ZhiZcyySu0I"
       },
       "snippet": {
-        "publishedAt": "2015-12-15T16:45:58Z",
-        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-        "title": "After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver",
-        "description": "In a classic research-based TEDx Talk, Dr. Lara Boyd describes how neuroplasticity gives you the power to shape the brain you want. Recorded at TEDxVancouver at Rogers Arena on November 14, 2015.\n\nYouTube Tags: brain science, brain, stroke, neuroplasticity, science, motor learning, identity, TED, TEDxVancouver, TEDxVancouver 2015, Vancouver, TEDx, Rogers Arena, Vancouver speakers, Vancouver conference, ideas worth spreading, great idea,\n\nOur knowledge of the brain is evolving at a breathtaking pace, and Dr. Lara Boyd is positioned at the cutting edge of these discoveries. In 2006, she was recruited by the University of British Columbia to become the Canada Research Chair in Neurobiology and Motor Learning. Since that time she has established the Brain Behaviour Lab, recruited and trained over 40 graduate students, published more than 80 papers and been awarded over $5 million in funding. \n\nDr. Boyd’s efforts are leading to the development of novel, and more effective, therapeutics for individuals with brain damage, but they are also shedding light on broader applications. By learning new concepts, taking advantage of opportunities, and participating in new activities, you are physically changing who you are, and opening up a world of endless possibility. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
+        "publishedAt": "2023-03-31T13:26:16Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 난 오늘 뉴요커🗽🕶, 뉴욕시티가 느껴지는 재즈플레이리스트",
+        "description": "“기분Jazz네” 에서 CCM 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 난 오늘 뉴요커🗽🕶, 뉴욕시티가 느껴지는 재즈플레이리스트\n\n(1 Loop 39’ 46’’) Cover\n00:00 Manhattan\n03:55 Take The A Train\n07:21 Upper Manhattan Medical Group\n10:36 Broadway\n13:21 Straight No Chaser\n15:51 Au Privave\n18:37 Central Park West\n22:45 Autumn in New York\n27:27 Route 66\n31:42 Stompin' At the Savoy\n34:40 Skating in Central Park\n39:46 Playlist | 난 오늘 뉴요커🗽🕶, 뉴욕시티가 느껴지는 재즈플레이리스트\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 하니, 보비, 행맨, 소라\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LNHBMFCzznE/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZhiZcyySu0I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LNHBMFCzznE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZhiZcyySu0I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LNHBMFCzznE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZhiZcyySu0I/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/LNHBMFCzznE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZhiZcyySu0I/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/LNHBMFCzznE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZhiZcyySu0I/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "TEDx Talks",
+        "channelTitle": "기분Jazz네",
         "liveBroadcastContent": "none",
-        "publishTime": "2015-12-15T16:45:58Z"
+        "publishTime": "2023-03-31T13:26:16Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "9DIbYE-4eU_pBpwRXZC_llS58Mc",
+      "etag": "AaDOwI1WZ5YrSdIgwfIpOwP3Jv0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "c0KYU2j0TM4"
+        "videoId": "FNKdk6EpObQ"
       },
       "snippet": {
-        "publishedAt": "2012-03-02T18:32:02Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "The power of introverts | Susan Cain",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIn a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2023-02-11T09:49:50Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 크.. 일할맛 나네🕺, 재즈노동요",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 크.. 일할맛 나네🕺, 재즈노동요\n\n(1 Loop 43’ 21’’) Cover\n00:00 I Remember You\n03:35 Have You Met Miss Jones\n06:54 Don’t Get Around Much Anymore\n10:46 Tea For Two\n14:13 Ugly Keyring \n18:04 Solar\n21:28 Turn Out The Stars\n26:06 Like Someone In Love\n30:22 After You, Who\n34:37 For Heaven's Sake\n38:37 Noodle Box\n43:21 Playlist | 크.. 일할맛 나네🕺, 재즈노동요\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 고글, 나찬, 하니, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/default.jpg",
+            "url": "https://i.ytimg.com/vi/FNKdk6EpObQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FNKdk6EpObQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FNKdk6EpObQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/FNKdk6EpObQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FNKdk6EpObQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "기분Jazz네",
         "liveBroadcastContent": "none",
-        "publishTime": "2012-03-02T18:32:02Z"
+        "publishTime": "2023-02-11T09:49:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oBDfUOeFsXXh7z3oUN_Hc71EQuQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ljBTG-YYdYk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-09T11:15:06Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 포근한 햇살과 재즈기타",
+        "description": "Playlist | 포근한 햇살과 재즈기타\n\n(1 Loop 33’ 02’’) Cover\n00:00 Out Of Nowhere\n04:42 Central Park West\n08:03 Coquette\n12:44 Emily\n17:22 In A Mellow Tone\n20:21 I've Never Been In Love Before\n25:08 I'll Close My Eyes\n28:49 Satin Doll\n33:02 Playlist | 포근한 햇살과 재즈기타\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, Miles, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ljBTG-YYdYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ljBTG-YYdYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ljBTG-YYdYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ljBTG-YYdYk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ljBTG-YYdYk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-09T11:15:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-IppCiV92vGvdSYKECY5chYY0O0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "loCc6eGq1_c"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-27T18:21:27Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | ☕진한 커피에 재즈 한 스푼🥄 | 카페 재즈 플레이리스트",
+        "description": "“기분Jazz네” 에서 CCM 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | ☕진한 커피에 재즈 한 스푼🥄 | 카페 재즈 플레이리스트\n\n(1 Loop 45’ 54’’) Cover\n00:00 I Love You For Sentimental Reasons\n05:42 Night And Day\n12:20 Hazy Memories\n19:21 Everything I Have Is Yours\n25:21 Polka Dots And Moonbeams\n29:50 Dreaming Of You (작곡)\n33:46 It Could Happen To You\n38:55 Blue On Sunny Day\n45:54 Playlist | 카페, 재즈\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 보비, 한이, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/loCc6eGq1_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/loCc6eGq1_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/loCc6eGq1_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/loCc6eGq1_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/loCc6eGq1_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-27T18:21:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3qrs1Ylhjo2hLX-LcimYtPCxKT4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tRq_DxLO1zc"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-18T11:17:34Z",
+        "channelId": "UCCzKwUci2rcV-U-XZYVVTpA",
+        "title": "[Playlist] 𝐌𝐨𝐯𝐢𝐞 𝐉𝐚𝐳𝐳, 우리가 사랑한 영화 속 재즈 | movie Jazz",
+        "description": "✔️모든 음원은 직접 연주한 음원입니다.\n\n💿PlayList\n0:00 Over the Rainbow (오즈의 마법사 OST)\n5:56 Fly me to the moon (스페이스 카우보이 OST)\n9:21 As times goes by (카사블랑카 OST)\n14:35 Dream A Little Dream of Me (프렌치 키스 OST)\n17:53 Undecided (레이니 데이 인 뉴욕 OST)\n20:55 Si Tu Vois Ma Mere (미드나잇 인 파리 OST)\n26:32 Autumn in New York (해리가 샐리를 만났을 때 OST)\n31:15 The blue room (본 투 비 블루 OST)\n36:52 When I fall in love (시애틀의 잠 못 이루는 밤 OST)\n41:36 La Vie En Rose (월E OST)\n45:22 Easy living (캐롤 OST)\n50:50 Moon River (티파니에서 아침을 OST)\n55:41 Blue moon (블루 재스민 OST)\n1:00:20 [Playlist] 𝐌𝐨𝐯𝐢𝐞 𝐉𝐚𝐳𝐳, 우리가 사랑한 영화 속 재즈 | movie Jazz\n\n[화면 속 사진은 ‘미드나잇 인 파리’ 영화 속 한 장면입니다.]\n\n📩 jiun1316@naver.com\n#jazz #movie #jazzplaylist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tRq_DxLO1zc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tRq_DxLO1zc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tRq_DxLO1zc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tRq_DxLO1zc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tRq_DxLO1zc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "재즈 리스트 l Jazz List",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-18T11:17:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RG8w2rFrctY-NnB9dEMuMlv1HPg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YvV8MEd1SjU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-08T03:20:18Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 | ☀️날도 좋은데 kpop 재즈 어때?🎧🎺 Kpop 재즈 플레이리스트",
+        "description": "Playlist | 케이팝, 재즈\n\n(1 Loop 62’ 15’’) Cover\n00:00 Ditto - 뉴진스\n04:12 Dream - 수지, 백현\n07:43 D (Half Moon) - 딘\n12:25 0310 - 백예린\n16:44 그건 아마 우리의 잘못은 아닐 거야 - 백예린\n20:59 드라마 - 아이유\n23:45 그냥(Just) - 자이언티, 크러쉬\n27:20 고양이 (Feat. 아이유) - 선우정아\n31:07 아무노래 - 지코\n33:56 Bad Boy - 레드벨벳\n37:31 별 보러 가자 - 적재\n42:28 Everything - 검정치마\n46:43 주저하는 연인들을 위해 - 잔나비\n51:25 러시안 룰렛 - 레드벨벳\n54:01 L'Amour, Les Baguettes, Paris - 스텔라장\n59:04 Mood Indigo - 치즈\n62:15 Playlist | 케이팝, 재즈\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 하니, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YvV8MEd1SjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YvV8MEd1SjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YvV8MEd1SjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YvV8MEd1SjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YvV8MEd1SjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-08T03:20:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b9qQPexv4AbdKep7eZFZt4nHsiI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ecAR5gVCRmE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-13T14:00:58Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 픽사, 재즈",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 픽사, 재즈\n\n(1 Loop 46’ 46’’) Cover\n00:00 You've Got A Friend In Me (토이 스토리 OST)\n04:56 Le Festin (라따뚜이 OST)\n08:32 Beyond The Sea (니모를 찾아서 OST)\n12:55 When She Loved Me (토이 스토리 2 OST)\n18:56 Bundle Of Joy (인사이드 아웃 OST)\n23:33 It's All Right (소울 OST)\n27:34 La Vie En Rose (월-E OST)\n31:47 If I Didn't Have You (몬스터 주식회사 OST)\n38:00 Married Life (업 OST)\n42:53 Remember Me (코코 OST)\n46:46 Playlist | 픽사, 재즈\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 하니, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ecAR5gVCRmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ecAR5gVCRmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ecAR5gVCRmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ecAR5gVCRmE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ecAR5gVCRmE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-13T14:00:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vokne7er_VIMkbJyIP00AjypP-g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D6P4zOu72FU"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T10:14:50Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 🌙저녁에 듣기 좋은 잔잔한 재즈 플레이리스트😌",
+        "description": "“기분Jazz네” 에서 CCM 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 🌙저녁에 듣기 좋은 잔잔한 재즈 플레이리스트😌\n\n(1 Loop 54’ 54’’) Cover\n00:00 Spring Can Really Hang You Up The Most\n06:02 Falling In Love With Love\n11:13 Blue In Green\n15:47 When October Goes\n21:03 I Thought About You\n27:02 Moonglow\n31:33 Central Park West\n35:40 Some Other Spring\n41:15 It Might As Well Be Spring\n49:25 I Remember Clifford\n54:54 Playlist | 잔잔한, 재즈\n\n___________________________________________________________\n🟢 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요.\n🟢 \"기분Jazz네\"의 모든 음원은 본 채널 외 무단으로 사용 불가함을 알려드립니다.\n🟢 음원 제작(BGM) 및 구매, 사용, 비즈니스 문의는 메일로 문의 주세요.\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 하니, 행맨, 소라\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D6P4zOu72FU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D6P4zOu72FU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D6P4zOu72FU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D6P4zOu72FU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D6P4zOu72FU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T10:14:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dx1dpH9UGqy2zpu9XeUYZSioM_c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rvb4JSFg3Yw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-05T08:32:42Z",
+        "channelId": "UCPQiMVVSaRLzQzJJ04E4Pug",
+        "title": "[Playlist] 분명 재택근무였는데 호텔에서 일하는 기분나는 재즈 플리 | Work & Study Jazz",
+        "description": "#jazzmusic, #cafejazz, #coffeejazz,\n[Playlist] 분명 재택근무였는데 호텔에서 일하는 기분나는 재즈 플리 | Work & Study Jazz\n\n☕ Jazzy Relax BMG 정보:\n휴식, 업무, 공부 등을 위한 재즈 음악과 아름다운 보사노바 음악을 만들고 있습니다.\n🎵 이 영상과 이 채널의 모든 음악은 우리가 만든 오리지널 음악입니다.\n모든 노래는 우리 뮤지션이 연주합니다.\n모든 음악은 저희 작가들이 만듭니다.\n🎥 이 채널의 모든 영상은 저희의 오리지널 영상입니다. 우리는 모든 비디오를 만듭니다.\n\n \n© 판권 소유.\n℗ 음악은 Jazzy Relax BMG에 저작권이 있습니다.\n© 비디오는 Jazzy Relax BMG에 저작권이 있습니다.\n\n🚫 본 영상/오디오의 전부 또는 일부의 무단 전재 및 재배포를 금합니다.\n\n▶️구독! https://www.youtube.com/channel/UCPQiMVVSaRLzQzJJ04E4Pug\n🎼 멋진 음악 컬렉션! →",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rvb4JSFg3Yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rvb4JSFg3Yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rvb4JSFg3Yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rvb4JSFg3Yw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rvb4JSFg3Yw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jazzy Relax BMG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-05T08:32:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VSw_AZTVzZBQLWxlmDguHQC2dEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gKSY9qTc210"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T09:18:11Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 시간이 느리게 흘러가는듯한 착각, 재즈",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 시간이 느리게 흘러가는듯한 착각, 재즈\n\n(1 Loop 53’ 19’’) Cover\n00:00 Moonlight Serenade\n04:53 Could It Be You\n10:28 The Last Time I Saw Paris\n14:24 Time After Time\n21:43 Just Friend\n26:09 How High The Moon\n33:32 All Of You\n37:50 Moonglow\n42:21 I Thought About You\n48:21 Lost The Last (작곡)\n53:19 Playlist | 시간이 느리게 흘러가는듯한 착각, 재즈\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 고글, 하니, 나찬, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gKSY9qTc210/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gKSY9qTc210/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gKSY9qTc210/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gKSY9qTc210/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gKSY9qTc210/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T09:18:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AgQJMJkdu6tD9zKHIhAhgTSo8fY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_nftoHOh5sE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-09T04:45:39Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 집중이 필요할 때, 재즈",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 집중이 필요할 때, 재즈\n\n(1 Loop 48’ 43’’) Cover\n00:00 Everything I Have Is Yours\n06:00 Two Sleepy People\n11:44 Smoke Gets In Your Eyes\n16:10 Where Are You\n21:06 Moonlight Becomes You\n28:26 Stella By Starlight\n32:58 Blue In Green\n37:33 Blue Candle (작곡)\n42:04 God Bless The Child\n48:43 Playlist | 집중이 필요할 때, 재즈\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 하니, 란주, 고글, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_nftoHOh5sE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_nftoHOh5sE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_nftoHOh5sE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_nftoHOh5sE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_nftoHOh5sE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-09T04:45:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VHaaZyDtShzLu2PCjKGNRKmygRA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KyQ7s2M0tO4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T02:37:51Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 차분함의 미학, 재즈",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 차분함의 미학, 재즈\n\n(1 Loop 49‘ 38’’) Cover\n00:00 My Favorite Things\n05:08 Emily\n09:09 Do I Love You\n14:04 Solitude\n20:07 It Could Happen To You\n25:24 Here's That Rainy Day\n30:35 I Wish You Love\n36:31 All My Tomorrows\n43:30 My Romance\n49:38 Playlist | 차분함의 미학, 재즈\n\n________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원입니다\n\n제작 ILRYU ENTERTAINMENT, 보비, 앙도, 란주, 고글, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KyQ7s2M0tO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KyQ7s2M0tO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KyQ7s2M0tO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KyQ7s2M0tO4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KyQ7s2M0tO4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T02:37:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rIOL2NasXBmEfF30iY_dTYOkXzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6_B_VpO2sEo"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T15:33:33Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 낭만이 내리는 뮌헨 거리, 재즈",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 낭만이 내리는 뮌헨 거리, 재즈\n\n(1 Loop 53’ 39’’) Cover\n00:00 Dindi\n04:31 Meditation\n11:19 On Green Dolphin Street\n15:27 Less Sugar\n19:59 Corocvado\n24:42 Don't Explain\n29:33 The Shadow of Your Smile \n34:12 Like Someone in Love\n38:46 Close Your Eyes\n42:57 Black Orpheus\n47:56 Once I Loved \n53:39 Playlist | 낭만이 내리는 뮌헨 거리, 재즈\n\n________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원입니다\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 나찬, 행맨, 소라\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6_B_VpO2sEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6_B_VpO2sEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6_B_VpO2sEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6_B_VpO2sEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6_B_VpO2sEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-10T15:33:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vVuDNFAHh0K5QxbotNzfDHK0iro",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "26dDt5zyHlU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T14:44:13Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 그림 그리고, 재즈",
+        "description": "Playlist | 그림 그리고, 재즈\n\n[OTTO오토 x 기분Jazz네] '그림, 그리고 재즈'\n\n'시선을 기록하는, 아트 크리에이터 OTTO오토'님과 함께한 플레이리스트입니다.\n오토님의 그림에서 영감을 받아 작편곡하여, 차분한 분위기를 느낄 수 있는 곡들로 선곡해 보았습니다.\n\nOTTO오토님의 첫 번째 개인전에서 오셔서 더 많은 그림과 기분Jazz네의 음악을 함께 감상하세요!\n\n📍 OTTO오토의 첫 번째 개인전 '그림, 그리고' \n-장소 : ARBY서울 성동구 서울숲 6길 8-1 3F\n-기간 : 23.02.10-23.02.26\n-시간 : 일,화~금 12:00-17:00 / 토 12:00-19:00\n-입장료 : 2,000원\n\nhttps://youtube.com/c/%EC%98%A4%ED%86%A0OTTO?fbclid=PAAaY1pzM_yZ-biaaGRJRxGhAlEJRcRL0To8nvq8sYKdZlrfEusVsCEsUBJMo\nhttps://www.instagram.com/_otto_art/\n\n(1 Loop 57’ 42’’) Cover\n00:00 At the gallery (작곡)\n05:31 I wish you love\n11:25 Everything happens to me\n17:54 Wait a minute (작곡)\n23:15 Misty\n30:35 Belgian waffle scent (작곡)\n37:01 Blue room\n39:36 I've never been in love before\n45:17 My favorite things\n55:22 A lovely way to spend an evening\n57:42 Playlist | 그림 그리고, 재즈\n\n________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원입니다\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 보비, 하니, 행맨, 소라\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/26dDt5zyHlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/26dDt5zyHlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/26dDt5zyHlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/26dDt5zyHlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/26dDt5zyHlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T14:44:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ooHSgRZGJKXpmVNLMuW9cFGtOJg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yq3GtUyVqI0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-04T08:19:50Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 불멍, 재즈",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | 불멍, 재즈\n\n(1 Loop 64’ 29’’) Cover\n00:00 All My Tomorrows\n07:00 My Foolish Heart\n13:23 A Cup Of Soup (작곡)\n16:49 Two Sleepy People\n22:31 My Ship\n29:24 Darn That Dream\n35:23 I've Never Been In Love Before\n41:06 Dark Green (작곡)\n46:26 Where Are You\n51:22 I Fall In Love Too Easily\n57:36 I'm A Fool To Want You\n64:29 Playlist | 불멍, 재즈\n\n________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원입니다\n\n제작 ILRYU ENTERTAINMENT, 고글, 란주, 앙도, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yq3GtUyVqI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yq3GtUyVqI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yq3GtUyVqI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yq3GtUyVqI0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yq3GtUyVqI0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-04T08:19:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0HcsDGPrm83eHObOrN3Z5GADd6s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xudZ0qFHL30"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-04T02:38:52Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 픽사, 재즈",
+        "description": "Playlist | 픽사, 재즈\n\nCover\nYou've Got A Friend In Me (토이 스토리 OST)\nLe Festin (라따뚜이 OST)\nBeyond The Sea (니모를 찾아서 OST)\nWhen She Loved Me (토이 스토리 2 OST)\nBundle Of Joy (인사이드 아웃 OST)\nIt's All Right (소울 OST)\nLa Vie En Rose (월-E OST)\nIf I Didn't Have You (몬스터 주식회사 OST)\nMarried Life (업 OST)\nRemember Me (코코 OST)\nPlaylist | 픽사, 재즈\n\n___________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 하니, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n___________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xudZ0qFHL30/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xudZ0qFHL30/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xudZ0qFHL30/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xudZ0qFHL30/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xudZ0qFHL30/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-05-04T02:38:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N2QzIZorwprPXyh0VnZq0LuMcj4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QZNFU8oEVxM"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-07T02:32:19Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 레고? 디즈니? 재즈? 못 참지!!😆 디즈니 재즈 플레이리스트",
+        "description": "본 콘텐츠는 레고코리아로부터 지원을 받아 제작되었습니다.\n\n*Playlist | 레고? 디즈니? 재즈? 못 참지!!😆 디즈니 재즈 플레이리스트*\n\n(1 Loop 39’ 24’’) Cover\n00:00 Steamboat Willie - 증기선 윌리 OST\n03:08 Mickey Mouse Club March - 미키 마우스 클럽 OST\n06:16 The Second Star To The Light - 피터 팬 OST\n10:53 You Can Fly! You Can Fly! You Can Fly! - 피터 팬 OST\n14:33 You've Got A Friend In Me - 토이 스토리 OST\n19:30 Strange Things - 토이 스토리 OST\n23:00 When She Loved Me - 토이 스토리 OST\n29:01 How Far I'll Go - 모아나 OST\n31:41 Up With Titles - 업 OST\n34:31 Married Life - 업 OST\n39:24 Playlist | 레고? 디즈니? 재즈? 못 참지!!😆 디즈니 재즈 플레이리스트\n\n\n[LEGO X 기분Jazz네]\n디즈니 100주년을 기념하여, 레고와 함께 한 플리를 가져왔어요!\n보는 즐거움이 있는 레고인 만큼, 눈과 귀가 함께 즐거울 수 있도록 준비했습니다😆\n\n두 가지 제품군으로 구성 된 디즈니 100주년 기념 레고는 이번 플리에 다양한 모습으로 등장하니 재밌게 봐주셨으면 좋겠습니다😊\n\n👉‘업’ 하우스 : http://m.site.naver.com/17BFU\n👉디즈니 축하행사 열차 : http://m.site.naver.com/17BCR\n\n\n기분Jazz네 구독자 분들을 위해 레고코리아에서 선물🎁을 준비해 주셨어요🥰\n이번 플리 들으시면서, 이벤트도 참여해 선물 받아가시길 바래요!\n이벤트 내용과 참여 방법은 아래와 같습니다😉\n\n\n📍 [레고 디즈니 X 기분Jazz네] 구독자 이벤트 📍\n\n👉 기간 : 2023년 4월 10일 ~ 2023년 4월 17일\n👉 참여 방법 : 이번 플리에 등장한 캐릭터 중, 가장 애정하는 캐릭터의 n행시를 지어 댓글로 남겨주세요!\nex) 미키(마우스), 미니(마우스), 피터팬, 팅커벨, 우디, 모아나, 칼, 러셀, 더그\n👉 이벤트 상품 : ‘업’ 하우스 2개, 디즈니 축하행사 열차 2개 (랜덤)\n👉 당첨자 발표 : 2023년 4월 24일 (채널 커뮤니티)\n\n_________________________________________ \n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원입니다\n\n제작 ILRYU ENTERTAINMENT, 앙도, 란주, 하니, 소라, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n__________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QZNFU8oEVxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QZNFU8oEVxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QZNFU8oEVxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QZNFU8oEVxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QZNFU8oEVxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-07T02:32:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Db-zb7CMTnYbgdNH1lSpOtvB5qs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Huli5RH049Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-29T09:30:27Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | Happy New Year, 재즈",
+        "description": "“기분Jazz네” 에서 기독교 재즈 채널을 만들었어요! ☺\n“힘들땐Hymn들어” 들으러가기 : https://youtu.be/v-sbawIq2hw\n.\nPlaylist | Happy New Year, 재즈\n\n(1 Loop 54’ 34’’) Cover\n00:00 Let's Start The New Year Right\n05:46 I Wish You Love\n11:41 You Brought A New Kind Of Love To Me\n16:35 Belgian Waffel Scent (작곡)\n23:00 This Year's Kisses\n27:19 It's A Lovely Day Today\n31:17 A Wonderful Day Like Today\n37:47 Holiday By Myself (작곡)\n42:59 What Are You Doing New Year' Eve\n48:19 I Fall In Love To Easily\n54:34 Playlist | Happy New Year, 재즈\n\n________________________________________________________\n▶️ 모든 음원은 직접 작곡 또는 편곡 및 연주한 음원입니다\n\n제작 ILRYU ENTERTAINMENT, 란주, 보비, 예찬, 앙도, 행맨\n© 일류뮤직 스튜디오 ILRYU MUSIC, 기분째즈네 (MoodisJazz)\n\n   📪Business Contact \n    ▪︎E-mail : il_ryu@naver.com\n    ▪︎이미지 출처 : unsplash.com\n________________________________________________________",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Huli5RH049Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Huli5RH049Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Huli5RH049Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Huli5RH049Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Huli5RH049Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-29T09:30:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OYFzrtD7k3asBF5G0FTZIKNgF_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D-AlVUXUrew"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T13:39:38Z",
+        "channelId": "UCTQVIXvcHrR9jYoJ6qaBAow",
+        "title": "[최초공개] LE SSERAFIM(르세라핌) - 이브, 프시케 그리고 푸른 수염의 아내 (4K) | LE SSERAFIM COMEBACKSHOW | Mnet 230501 방송",
+        "description": "[LE SSERAFIM COMEBACK SHOW UNFORGIVEN] LE SSERAFIM - Eve, Psyche & The Bluebeard’s wife\n[르세라핌 컴백쇼 언포기븐] 르세라핌 - 이브, 프시케 그리고 푸른 수염의 아내\n\n#LE_SSERAFIM #르세라핌\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/\nTikTok:       https://www.tiktok.com/@m2mpd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-AlVUXUrew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-AlVUXUrew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-AlVUXUrew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D-AlVUXUrew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D-AlVUXUrew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "M2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T13:39:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3mp29mq59tuc-29zim07ToCbqzQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xHCjuxn2H9s"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-26T06:39:20Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "[슈취타] EP.10 SUGA with 우지",
+        "description": "#슈가와취하는타임 #슈취타 #SUGA #슈가 \n#우지 #WOOZI #세븐틴 #SEVENTEEN\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xHCjuxn2H9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xHCjuxn2H9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xHCjuxn2H9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xHCjuxn2H9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xHCjuxn2H9s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-26T06:39:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rlNL6T8_TBHM4nA_cuQU8DSkGG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wIBZ7UcQmDU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T14:21:02Z",
+        "channelId": "UCTQVIXvcHrR9jYoJ6qaBAow",
+        "title": "[최초공개] LE SSERAFIM(르세라핌) - UNFORGIVEN (feat. Nile Rodgers) (4K) | COMEBACKSHOW | Mnet 230501 방송",
+        "description": "[LE SSERAFIM COMEBACK SHOW UNFORGIVEN] LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers)\n[르세라핌 컴백쇼 언포기븐] 르세라핌 - 언포기븐 (feat. Nile Rodgers)\n\n#LE_SSERAFIM #르세라핌\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/\nTikTok:       https://www.tiktok.com/@m2mpd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "M2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T14:21:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y6SkvtTZSRH2B5nTGP_t0PeIXNs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hUkzNdXHfCo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-01T00:34:04Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "\"이 정도였어?\" 놀란 정부…초강력 대응 결심했다 (자막뉴스) / SBS",
+        "description": "중국 연계 범죄조직이 서울 강남 학원가에서 학생들에게 필로폰 성분 음료를 마시게 한 뒤 학부모를 협박하는가 하면 최근에는 미성년자에게 마약을 판매한 폭력조직원 등이 무더기로 검거되기도 했습니다.\n\n범정부 차원의 마약범죄 특별수사본부 설치 발표에 이어 검찰이 엄단 대책을 내놓았습니다.\n\n자세한 내용, 영상으로 확인하시죠.\n\n\n☞더 자세한 정보\nhttps://news.sbs.co.kr/y/?id=N1007174611\n\n☞[뉴스영상] 기사 모아보기 \nhttps://news.sbs.co.kr/y/t/?id=10000000121\n \n\n#SBS뉴스 #청소년 #검찰\n\n▶SBS 뉴스 채널 구독하기 : https://n.sbs.co.kr/youtube \n▶SBS 뉴스 라이브 : https://n.sbs.co.kr/youtubeLive , https://n.sbs.co.kr/live \n\n▶SBS 뉴스 제보하기\n홈페이지: https://n.sbs.co.kr/inform \n애플리케이션: 'SBS뉴스' 앱 설치하고 제보 - https://n.sbs.co.kr/App \n카카오톡: 'SBS뉴스'와 친구 맺고 채팅 - https://pf.kakao.com/_ewsdq/chat \n페이스북: 'SBS뉴스' 메시지 전송 - https://www.facebook.com/sbs8news \n이메일: sbs8news@sbs.co.kr \n문자: #6000 \n전화: 02-2113-6000 \n\n홈페이지: https://news.sbs.co.kr/ \n페이스북: https://www.facebook.com/sbs8news \n트위터: https://www.twitter.com/sbs8news\n카카오톡: https://pf.kakao.com/_ewsdq\n인스타그램: https://www.instagram.com/sbsnews",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hUkzNdXHfCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hUkzNdXHfCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hUkzNdXHfCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hUkzNdXHfCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hUkzNdXHfCo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-01T00:34:04Z"
       }
     }
   ]
