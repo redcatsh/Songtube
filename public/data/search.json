@@ -1,84 +1,84 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "IP-bHZ4wwMvcIeEztoJq8OZvwM0",
-  "nextPageToken": "CBkQAA",
+  "etag": "xubM-HVei8GGg08ULqOHbi3OL8I",
+  "nextPageToken": "CCAQAA",
   "regionCode": "KR",
   "pageInfo": {
     "totalResults": 1000000,
-    "resultsPerPage": 25
+    "resultsPerPage": 32
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "SZbkm39AedC9uA0Do0EUedlqCns",
+      "etag": "zgiT585EbTVGy4Gw57l5iXfMGVk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "K4-1l9EgBLI"
+        "videoId": "4Ny_YZRL3vk"
       },
       "snippet": {
-        "publishedAt": "2023-05-04T15:30:18Z",
-        "channelId": "UCJhjE7wbdYAae1G25m0tHAA",
-        "title": "FRIDAY MORNING JAZZ: Upbeat Jazz &amp; Bossa Nova Music to Bring on the Weekend Vibes",
-        "description": "Listen Everywhere → Good Morning FRIDAY: https://lnk.to/su6wic7Z. Please Subscribe!",
+        "publishedAt": "2023-05-09T00:30:04Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "🥂고급진 분위기에 어울리는 재즈플레이리스트💕 l 𝐋𝐎𝐔𝐍𝐆𝐄 𝐉𝐀𝐙𝐙 l Positive Jazz Piano Music for Restaurant, Cafe, Store",
+        "description": "저희 음악이 마음에 드신다면 구독과 좋아요 부탁드려요! - Please Subscribe!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/K4-1l9EgBLI/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/4Ny_YZRL3vk/default_live.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/K4-1l9EgBLI/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/4Ny_YZRL3vk/mqdefault_live.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/K4-1l9EgBLI/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/4Ny_YZRL3vk/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MONKEY BGM",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-05-09T00:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qQ0aumEsz9UG-1mYZr3OZjIltPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yZbheTKG6Vk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-08T15:18:15Z",
+        "channelId": "UCJhjE7wbdYAae1G25m0tHAA",
+        "title": "TUESDAY MORNING JAZZ: Keep the Momentum Going with Cheerful Jazz &amp; Bossa Nova Tunes",
+        "description": "Listen Everywhere → Good Morning TUESDAY: https://lnk.to/xRqlzvuj. Please Subscribe!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZbheTKG6Vk/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZbheTKG6Vk/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZbheTKG6Vk/hqdefault_live.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Cafe Music BGM channel",
         "liveBroadcastContent": "live",
-        "publishTime": "2023-05-04T15:30:18Z"
+        "publishTime": "2023-05-08T15:18:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "kT4bXPw47-pCx3JS5UncZG9KDXo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "LymZRMF8l7Y"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-05T07:00:14Z",
-        "channelId": "UCnDahTFzq0NNIttHVKLBUUw",
-        "title": "술에 취한건지 재즈에 취한건지, 우리의 금요일 밤 | Jazz Piano | Playlist | 카페 음악 | 로비 음악",
-        "description": "듣는 분들의 행복을 기원하는 Loo Piano 입니다 제 채널의 음악은 모두 직접 작곡 및 편곡, 연주하고 있습니다 ❌ 무단 사용 및 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LymZRMF8l7Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LymZRMF8l7Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LymZRMF8l7Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Loo Piano 루 피아노",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-05T07:00:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3NrzL4cj7THttcBeQTJTwZMt3SI",
+      "etag": "viv8w60tHzt_q9sgcCyhVOl3OHE",
       "id": {
         "kind": "youtube#video",
         "videoId": "tRq_DxLO1zc"
@@ -108,74 +108,6 @@
         "channelTitle": "재즈 리스트 l Jazz List",
         "liveBroadcastContent": "none",
         "publishTime": "2023-04-23T21:00:16Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "MwTt9E-4zkO89IroPpXVMXk7-T0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "jiX1jsy6NzA"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-04T20:09:55Z",
-        "channelId": "UCaCE5pzy49M8nQ59plgmFOA",
-        "title": "Friday Morning Jazz - Relaxing Bossa Nova &amp; Jazz Cafe Music",
-        "description": "Happy morning jazz and bossa nova music by Richard Freeman © All music and videos are produced by us and are copyrighted.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jiX1jsy6NzA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jiX1jsy6NzA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jiX1jsy6NzA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Relax Cafe Music",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-04T20:09:55Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "s6oJCSnUB88YSQ1wI0nb3mT7aH0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "lOOxHmjQjMQ"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-26T23:00:30Z",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "[𝐂𝐀𝐅𝐄&amp;𝐉𝐀𝐙𝐙] 꽃향기 가득한 카페에서 따뜻한 느낌의 𝙅𝘼𝙕𝙕 𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏 🌼",
-        "description": "해당 영상은 허가를 받은 후 촬영한 영상입니다.) . -Please Subscribe! Song List   00:00 Greatest Love ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lOOxHmjQjMQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lOOxHmjQjMQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lOOxHmjQjMQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "MONKEY BGM",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-26T23:00:30Z"
       }
     },
     {
@@ -214,36 +146,36 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "VXTy7fYwz8jKSBegLTo5hhNP_7o",
+      "etag": "UME4VN1b6d16d8NiWDXaNvzuRbc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "MdzEMHgPmHo"
+        "videoId": "uTuuz__8gUM"
       },
       "snippet": {
-        "publishedAt": "2023-03-02T05:33:00Z",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "☀️ 아침갬성모닝재즈 💓 l Morning Jazz l 카페재즈, 매장음악 l Relaxing Jazz Piano Music",
-        "description": "저희 음악이 마음에 드신다면 구독과 좋아요 부탁드려요! - Please Subscribe!",
+        "publishedAt": "2023-04-14T20:56:12Z",
+        "channelId": "UCHCyX77xqN9OVjLzMpAZvXw",
+        "title": "[Playlist] 오롯이 혼자인 방 안에서, 그리고 재즈 | Work &amp; Study Jazz | Relaxing Background Music",
+        "description": "jazz #playlist #trio712 안녕하세요, WRG입니다. 그동안 보여드렸던 저희의 자작곡 5곡과 드디어 공개하는 2곡까지. 한 곳에 모아 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MdzEMHgPmHo/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/uTuuz__8gUM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MdzEMHgPmHo/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/uTuuz__8gUM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MdzEMHgPmHo/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/uTuuz__8gUM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "MONKEY BGM",
-        "liveBroadcastContent": "live",
-        "publishTime": "2023-03-02T05:33:00Z"
+        "channelTitle": "WRG 우리가 듣고 싶어서 연주한 playlist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-14T20:56:12Z"
       }
     },
     {
@@ -282,36 +214,138 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "u2xL0h-LUp-LoFRxfWsqnXt5_q8",
+      "etag": "VXTy7fYwz8jKSBegLTo5hhNP_7o",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ftC_PjG7h3Y"
+        "videoId": "MdzEMHgPmHo"
       },
       "snippet": {
-        "publishedAt": "2023-05-02T23:15:00Z",
+        "publishedAt": "2023-03-02T05:33:00Z",
         "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "[𝐍𝐈𝐆𝐇𝐓 𝐉𝐀𝐙𝐙] 당신의 지친 마음을 위로해주는 재즈발라드💓 l Relaxing Jazz Piano Music for You😍",
-        "description": "Please Subscribe! Song List   00:00 In the night 07:06 Waiting for love 14:35 Bridge In The Sky 20:42 ...",
+        "title": "☀️ 아침갬성모닝재즈 💓 l Morning Jazz l 카페재즈, 매장음악 l Relaxing Jazz Piano Music",
+        "description": "저희 음악이 마음에 드신다면 구독과 좋아요 부탁드려요! - Please Subscribe!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ftC_PjG7h3Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/MdzEMHgPmHo/default_live.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ftC_PjG7h3Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MdzEMHgPmHo/mqdefault_live.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ftC_PjG7h3Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MdzEMHgPmHo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MONKEY BGM",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-03-02T05:33:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s6oJCSnUB88YSQ1wI0nb3mT7aH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lOOxHmjQjMQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-26T23:00:30Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "[𝐂𝐀𝐅𝐄&amp;𝐉𝐀𝐙𝐙] 꽃향기 가득한 카페에서 따뜻한 느낌의 𝙅𝘼𝙕𝙕 𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏 🌼",
+        "description": "해당 영상은 허가를 받은 후 촬영한 영상입니다.) . -Please Subscribe! Song List   00:00 Greatest Love ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lOOxHmjQjMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lOOxHmjQjMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lOOxHmjQjMQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "MONKEY BGM",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-05-02T23:15:00Z"
+        "publishTime": "2023-04-26T23:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k9AR82zxjNG4rljBUnVpHE6_U4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fBlGGi7Yi7s"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-01T02:44:40Z",
+        "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+        "title": "Playlist | 시원한, 보사노바 재즈",
+        "description": "Playlist | 시원한, 보사노바 재즈 Cover Wave The girl from Ipanema Desafinado Blue Bossa Gentle rain How insensitive One note ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBlGGi7Yi7s/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBlGGi7Yi7s/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBlGGi7Yi7s/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "기분Jazz네",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-05-01T02:44:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dioZC6VwOm8KbKXfgTCITVmw63s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2P8M9H2CQ2Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-05T21:00:02Z",
+        "channelId": "UCCzKwUci2rcV-U-XZYVVTpA",
+        "title": "[playlist]𝐀𝐥𝐥 𝐓𝐢𝐦𝐞 𝐁𝐞𝐬𝐭 𝐉𝐚𝐳𝐳, 한번 쯤 들어본 유명한 재즈 |Famous Jazz, Jazz Playlist",
+        "description": "여러분이 가장 좋아하는 재즈 곡은 무엇인가요? ✔️모든 음원은 직접 연주한 음원입니다. PlayList 0:00 Misty 7:17 My One And ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2P8M9H2CQ2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2P8M9H2CQ2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2P8M9H2CQ2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "재즈 리스트 l Jazz List",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-05T21:00:02Z"
       }
     },
     {
@@ -350,166 +384,36 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "8L_X97vaKg1YSctr-osKrnPkLyo",
+      "etag": "Vaxq-fDh4SZt20xzXP4tqcJ8_kM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xZbjgsE-Vlo"
+        "videoId": "ngsapwsD9c8"
       },
       "snippet": {
-        "publishedAt": "2023-03-01T13:40:02Z",
-        "channelId": "UCHCyX77xqN9OVjLzMpAZvXw",
-        "title": "잠이 솔솔.. 10분 안에 잠드는 꿀잠 수면 재즈 (중간광고 없음)",
-        "description": "당신은 잠이 옵니다.. 잠이 옵니다.. 이번 곡은 저희의 세번째 자작곡, 'For Sleep'입니다. 저희의 음악과 함께 평안한 밤 보내셨으면 ...",
+        "publishedAt": "2023-04-18T23:00:28Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "[𝐒𝐏𝐑𝐈𝐍𝐆 𝐉𝐀𝐙𝐙] 봄냄새 제대로 나는 재즈비지엠🌼l Relaxing Jazz Piano Music for Cafe, Coffee Shop",
+        "description": "해당 영상은 허가를 받은 후 촬영한 영상입니다.) . -Please Subscribe! Song List   00:00 Dancing in the ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xZbjgsE-Vlo/default.jpg",
+            "url": "https://i.ytimg.com/vi/ngsapwsD9c8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xZbjgsE-Vlo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ngsapwsD9c8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xZbjgsE-Vlo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "WRG 우리가 듣고 싶어서 연주한 playlist",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-03-01T13:40:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "IOgnnIG3ZuHzrRpd2kzsv_YYHHI",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw"
-      },
-      "snippet": {
-        "publishedAt": "2020-02-22T04:21:05Z",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "MONKEY BGM",
-        "description": "안녕하세요 몽키비지엠입니다. Hello. We're Monkey BGM 初めまして私だちは Monkey BGMと申します。 Hola somos Monkey ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/tWxrapVNxQBe-VnvRxOMAOmyVNsnEmFlT8ON3oQyqLPr6_QwwevRIHsslAmYSNogDehyCQNvqg=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/tWxrapVNxQBe-VnvRxOMAOmyVNsnEmFlT8ON3oQyqLPr6_QwwevRIHsslAmYSNogDehyCQNvqg=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/tWxrapVNxQBe-VnvRxOMAOmyVNsnEmFlT8ON3oQyqLPr6_QwwevRIHsslAmYSNogDehyCQNvqg=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "MONKEY BGM",
-        "liveBroadcastContent": "live",
-        "publishTime": "2020-02-22T04:21:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "xFMPohL9ii3DDY9fdn9FI6uHRV0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Ozi_eEnSEIc"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-11T23:00:15Z",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "[𝐌𝐎𝐑𝐍𝐈𝐍𝐆 𝐉𝐀𝐙𝐙] 따뜻한 재즈가 도착했습니다💛 l 포근한 감성의 모닝재즈🥰 l RELAXING JAZZ PIANO MUSIC😍",
-        "description": "Please Subscribe! Song List   00:00 When You Love Someone 06:36 Here Comes The Sun 11:40 If I ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ozi_eEnSEIc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ozi_eEnSEIc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ozi_eEnSEIc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ngsapwsD9c8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "MONKEY BGM",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-11T23:00:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "UME4VN1b6d16d8NiWDXaNvzuRbc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "uTuuz__8gUM"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-14T20:56:12Z",
-        "channelId": "UCHCyX77xqN9OVjLzMpAZvXw",
-        "title": "[Playlist] 오롯이 혼자인 방 안에서, 그리고 재즈 | Work &amp; Study Jazz | Relaxing Background Music",
-        "description": "jazz #playlist #trio712 안녕하세요, WRG입니다. 그동안 보여드렸던 저희의 자작곡 5곡과 드디어 공개하는 2곡까지. 한 곳에 모아 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uTuuz__8gUM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uTuuz__8gUM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uTuuz__8gUM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "WRG 우리가 듣고 싶어서 연주한 playlist",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-14T20:56:12Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "2UoxlAQtRypz4ISUSfc7WSrSlgE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "sDDHIu6nwUs"
-      },
-      "snippet": {
-        "publishedAt": "2023-01-17T19:35:39Z",
-        "channelId": "UCCzKwUci2rcV-U-XZYVVTpA",
-        "title": "[Playlist] 정처 없이 걷다가 들어간 헌책방에서 흘러나오는 재즈 l Jazz at the bookstore",
-        "description": "우연히 들어간 책방, 그리고 우연히 집어 든 책 속에서 나는 사랑의 단어를 발견했다. ✔️모든 음원은 직접 연주한 음원입니다.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sDDHIu6nwUs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sDDHIu6nwUs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sDDHIu6nwUs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "재즈 리스트 l Jazz List",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-01-17T19:35:39Z"
+        "publishTime": "2023-04-18T23:00:28Z"
       }
     },
     {
@@ -548,109 +452,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Vaxq-fDh4SZt20xzXP4tqcJ8_kM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ngsapwsD9c8"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-18T23:00:28Z",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "[𝐒𝐏𝐑𝐈𝐍𝐆 𝐉𝐀𝐙𝐙] 봄냄새 제대로 나는 재즈비지엠🌼l Relaxing Jazz Piano Music for Cafe, Coffee Shop",
-        "description": "해당 영상은 허가를 받은 후 촬영한 영상입니다.) . -Please Subscribe! Song List   00:00 Dancing in the ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ngsapwsD9c8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ngsapwsD9c8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ngsapwsD9c8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "MONKEY BGM",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-18T23:00:28Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "zFM_5QJHeZxhJjLQSsMTN1h3OTk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "b1F2AVsJ05c"
-      },
-      "snippet": {
-        "publishedAt": "2022-02-12T23:15:35Z",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "🍷고급스러운 분위기에 어울리는 재즈음악 l 호텔 라운지 재즈 , 카페재즈, 매장음악 l Relaxing Jazz Piano Music",
-        "description": "저희 음악이 마음에 드신다면 구독과 좋아요 부탁드려요! Song List   00:01 Wave 05:41 A Beautiful Friendship 10:50 Candy ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/b1F2AVsJ05c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/b1F2AVsJ05c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/b1F2AVsJ05c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "MONKEY BGM",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-02-12T23:15:35Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "7HIz1FAYvP5m8wkD4dwYtqNf78g",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "iQaAXkBA0aI"
-      },
-      "snippet": {
-        "publishedAt": "2023-03-02T02:28:46Z",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "🥂고급진 분위기에 어울리는 재즈플레이리스트💕 l 𝐋𝐎𝐔𝐍𝐆𝐄 𝐉𝐀𝐙𝐙 l Positive Jazz Piano Music for Restaurant, Cafe, Store",
-        "description": "저희 음악이 마음에 드신다면 구독과 좋아요 부탁드려요! - Please Subscribe!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/iQaAXkBA0aI/default_live.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/iQaAXkBA0aI/mqdefault_live.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/iQaAXkBA0aI/hqdefault_live.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "MONKEY BGM",
-        "liveBroadcastContent": "live",
-        "publishTime": "2023-03-02T02:28:46Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "oPHBDE_XW1nUKIRi8MRI-wSwfgw",
+      "etag": "T7nY9-kXMqEz0aDdsdRATEmBErE",
       "id": {
         "kind": "youtube#video",
         "videoId": "cL9EqZeHv2o"
@@ -684,70 +486,104 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "vEBFXHKB9Rm5I3mrEbiC1Xy9aw4",
+      "etag": "2UoxlAQtRypz4ISUSfc7WSrSlgE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "wcIf3huwFhc"
+        "videoId": "sDDHIu6nwUs"
       },
       "snippet": {
-        "publishedAt": "2022-11-15T00:00:24Z",
-        "channelId": "UCHCyX77xqN9OVjLzMpAZvXw",
-        "title": "[Playlist] 분명 재택근무였는데 호텔에서 일하는 기분나는 재즈 플리 | Work &amp; Study Jazz",
-        "description": "jazz #playlist #trio712 안녕하세요, 듣기 편안한 재즈 음악을 연주하는 [Trio712]입니다. 얼마 전, 한 구독자분께서는 요리할 때마다 ...",
+        "publishedAt": "2023-01-17T19:35:39Z",
+        "channelId": "UCCzKwUci2rcV-U-XZYVVTpA",
+        "title": "[Playlist] 정처 없이 걷다가 들어간 헌책방에서 흘러나오는 재즈 l Jazz at the bookstore",
+        "description": "우연히 들어간 책방, 그리고 우연히 집어 든 책 속에서 나는 사랑의 단어를 발견했다. ✔️모든 음원은 직접 연주한 음원입니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wcIf3huwFhc/default.jpg",
+            "url": "https://i.ytimg.com/vi/sDDHIu6nwUs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wcIf3huwFhc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sDDHIu6nwUs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wcIf3huwFhc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sDDHIu6nwUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "재즈 리스트 l Jazz List",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T19:35:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mi_VMtLw2QEgp25AnjKSbYpkt4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Z3hEwVsy-k"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-13T23:22:01Z",
+        "channelId": "UC3QYSTI1hMMdTFnBs1rbpDQ",
+        "title": "🌧 비오는날 듣기 좋은 재즈 l Rainy Jazz 🎶 l ☕️ 카페음악 l Relaxing Jazz l 감성재즈",
+        "description": "안녕하세요 지니도 비지엠 입니다. 모든 음악은 직접 편곡 및 연주를 직접 하고 녹음해서 만듭니다. 구독과 좋아요 알림설정 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Z3hEwVsy-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Z3hEwVsy-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Z3hEwVsy-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "지니도비지엠 Jinido bgm",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-13T23:22:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8L_X97vaKg1YSctr-osKrnPkLyo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xZbjgsE-Vlo"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-01T13:40:02Z",
+        "channelId": "UCHCyX77xqN9OVjLzMpAZvXw",
+        "title": "잠이 솔솔.. 10분 안에 잠드는 꿀잠 수면 재즈 (중간광고 없음)",
+        "description": "당신은 잠이 옵니다.. 잠이 옵니다.. 이번 곡은 저희의 세번째 자작곡, 'For Sleep'입니다. 저희의 음악과 함께 평안한 밤 보내셨으면 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xZbjgsE-Vlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xZbjgsE-Vlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xZbjgsE-Vlo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "WRG 우리가 듣고 싶어서 연주한 playlist",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-15T00:00:24Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "9KWue7UKGKdamsDs_6AyuWtkwgE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "86gToHFkbiU"
-      },
-      "snippet": {
-        "publishedAt": "2022-02-06T02:37:20Z",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "💓스타벅스 매장음악 ( 중간광고없음❗️) / Starbucks Jazz Piano Music / 카페음악, 매장음악, 라운지음악",
-        "description": "저희 음악이 마음에 드신다면 구독과 좋아요 부탁드려요! Song List - 이 영상의 음원은 대부분 있는곡이 아니라 즉흥으로 연주 한 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/86gToHFkbiU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/86gToHFkbiU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/86gToHFkbiU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "MONKEY BGM",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-02-06T02:37:20Z"
+        "publishTime": "2023-03-01T13:40:02Z"
       }
     },
     {
@@ -786,6 +622,278 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "zFM_5QJHeZxhJjLQSsMTN1h3OTk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b1F2AVsJ05c"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-12T23:15:35Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "🍷고급스러운 분위기에 어울리는 재즈음악 l 호텔 라운지 재즈 , 카페재즈, 매장음악 l Relaxing Jazz Piano Music",
+        "description": "저희 음악이 마음에 드신다면 구독과 좋아요 부탁드려요! Song List   00:01 Wave 05:41 A Beautiful Friendship 10:50 Candy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b1F2AVsJ05c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b1F2AVsJ05c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b1F2AVsJ05c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MONKEY BGM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-12T23:15:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9KWue7UKGKdamsDs_6AyuWtkwgE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "86gToHFkbiU"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-06T02:37:20Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "💓스타벅스 매장음악 ( 중간광고없음❗️) / Starbucks Jazz Piano Music / 카페음악, 매장음악, 라운지음악",
+        "description": "저희 음악이 마음에 드신다면 구독과 좋아요 부탁드려요! Song List - 이 영상의 음원은 대부분 있는곡이 아니라 즉흥으로 연주 한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/86gToHFkbiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/86gToHFkbiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/86gToHFkbiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MONKEY BGM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-06T02:37:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vEBFXHKB9Rm5I3mrEbiC1Xy9aw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wcIf3huwFhc"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T00:00:24Z",
+        "channelId": "UCHCyX77xqN9OVjLzMpAZvXw",
+        "title": "[Playlist] 분명 재택근무였는데 호텔에서 일하는 기분나는 재즈 플리 | Work &amp; Study Jazz",
+        "description": "jazz #playlist #trio712 안녕하세요, 듣기 편안한 재즈 음악을 연주하는 [Trio712]입니다. 얼마 전, 한 구독자분께서는 요리할 때마다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wcIf3huwFhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wcIf3huwFhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wcIf3huwFhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WRG 우리가 듣고 싶어서 연주한 playlist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T00:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u2xL0h-LUp-LoFRxfWsqnXt5_q8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ftC_PjG7h3Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T23:15:00Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "[𝐍𝐈𝐆𝐇𝐓 𝐉𝐀𝐙𝐙] 당신의 지친 마음을 위로해주는 재즈발라드💓 l Relaxing Jazz Piano Music for You😍",
+        "description": "Please Subscribe! Song List   00:00 In the night 07:06 Waiting for love 14:35 Bridge In The Sky 20:42 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ftC_PjG7h3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ftC_PjG7h3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ftC_PjG7h3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MONKEY BGM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T23:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4v5TjdOfp_pUVkNFrbX3osWGzHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yAIgFdszw_A"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-29T23:00:09Z",
+        "channelId": "UCFNsGNgFe_0Z5kIS9LETCfA",
+        "title": "💖 활기찬 하루를 위한 잔잔한 재즈 음악, 더 나은 작업을 도와줍니다☕스타벅스 매장음악실시간 음악 🥤 매장음악 광고없는  週末の朝カフェBGM ☕ STARBUCKS Jazz.",
+        "description": "활기찬 하루를 위한 잔잔한 재즈 음악, 더 나은 작업을 도와줍니다☕스타벅스 매장음악실시간 음악 매장음악 광고없는 週末の朝 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yAIgFdszw_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yAIgFdszw_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yAIgFdszw_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스타벅스 매장음악 2022",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-29T23:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tJgVOKQgWbUOtnMDcK5w3HNI8Mg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MeIqFabHCjA"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-23T03:00:07Z",
+        "channelId": "UCnDahTFzq0NNIttHVKLBUUw",
+        "title": "얊아진 옷차림과 따뜻한 여유, 일요일의 음악 | Jazz Piano | Playlist | 카페 음악 | 로비 음악",
+        "description": "듣는 분들의 행복을 기원하는 Loo Piano 입니다 제 채널의 음악은 모두 직접 작곡 및 편곡, 연주하고 있습니다 ❌ 무단 사용 및 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MeIqFabHCjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MeIqFabHCjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MeIqFabHCjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Loo Piano 루 피아노",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-23T03:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VCOPkiCX7n22L9EdM7xG9bIkOaI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r_E_-FRiyKc"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-03T23:30:06Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "🌃 저녁에 듣기 좋은 잔잔한 재즈발라드 l Cozy Jazz l Piano Instrumental Background music for cafe, study, Relaxing",
+        "description": "저희 음악이 마음에 드신다면 구독과 좋아요 부탁드려요! Please Subscribe! Song List 00:00 Everythings happens to me 06:47 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r_E_-FRiyKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r_E_-FRiyKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r_E_-FRiyKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MONKEY BGM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-03T23:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mHtxLxEWjeg7VDvPo0nA_awOlGA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BcbmFxbdsJ0"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-06T05:31:10Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "☕️ 뭐지? 나 스타벅스 언제왔지? 🤭 l 중간 광고 없는❗️ 매장 음악, 카페 음악 l starbucks jazz piano music",
+        "description": "Please Subscribe! Song List   00:00 Blame it on my youth 05:37 Softly as in a morning sunrise 10:05 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BcbmFxbdsJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BcbmFxbdsJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BcbmFxbdsJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MONKEY BGM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-06T05:31:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "fPmzfPR3XGGZMtwGiXr0TEYjioE",
       "id": {
         "kind": "youtube#video",
@@ -820,36 +928,172 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ZZX_QUkWVIa6efvLsKFc4NjqJSw",
+      "etag": "bAiWFrWgtoJLc3z9sHTp26MLMCk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "BHoFmAHSD3E"
+        "videoId": "hOJ76cZEt08"
       },
       "snippet": {
-        "publishedAt": "2023-03-27T00:00:07Z",
-        "channelId": "UClT7oST4Z15M6Zv7oF_N2UQ",
-        "title": "💓디즈니OST 재즈피아노 연주 모음 Part5 (FUNK Ver.)💓l The best disney music list 2023 ❤l Jazz Piano",
-        "description": "디즈니OST 재즈피아노 연주 모음 Part5 (FUNK Ver.)  l The best disney music list 2023 ❤l Jazz Piano -Please ...",
+        "publishedAt": "2022-09-04T23:15:01Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "[ 𝐍𝐈𝐆𝐇𝐓 𝐉𝐀𝐙𝐙 ] 저녁에 듣기 좋은 잔잔한 재즈플레이리스트🌃 l Romantic Jazz, Relaxing Jazz Piano Music for Good Mood🌠",
+        "description": "Please Subscribe! Song List   00:00 Smoke get in your eyes 06:35 Alice in wonderland 13:32 Blue ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BHoFmAHSD3E/default.jpg",
+            "url": "https://i.ytimg.com/vi/hOJ76cZEt08/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BHoFmAHSD3E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hOJ76cZEt08/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BHoFmAHSD3E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hOJ76cZEt08/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Jazz Lingo",
+        "channelTitle": "MONKEY BGM",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-03-27T00:00:07Z"
+        "publishTime": "2022-09-04T23:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xUIWr7r0su2GRrfEX-vUY1afsWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "stXUQxV5Hic"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-30T23:00:31Z",
+        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+        "title": "[𝐒𝐏𝐑𝐈𝐍𝐆 𝐉𝐀𝐙𝐙] 나랑 벚꽃 보러갈래?🌸 l Relaxing Jazz Piano Music💕",
+        "description": "Please Subscribe! Song List   00:00 Cherry Blossom 06:05 Scent of Spring 12:12 Love's Journey ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/stXUQxV5Hic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/stXUQxV5Hic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/stXUQxV5Hic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MONKEY BGM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-30T23:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BHK8LPjfeXAGSqqjjoTibGBEc94",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LymZRMF8l7Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-05T07:00:14Z",
+        "channelId": "UCnDahTFzq0NNIttHVKLBUUw",
+        "title": "술에 취한건지 재즈에 취한건지, 우리의 금요일 밤 | Jazz Piano | Playlist | 카페 음악 | 로비 음악",
+        "description": "듣는 분들의 행복을 기원하는 Loo Piano 입니다 제 채널의 음악은 모두 직접 작곡 및 편곡, 연주하고 있습니다 ❌ 무단 사용 및 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LymZRMF8l7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LymZRMF8l7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LymZRMF8l7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Loo Piano 루 피아노",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-05T07:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wKJDQqEutu2UeI-ZZfARC80KSxY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vsw-ujh9I3c"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-06T00:00:14Z",
+        "channelId": "UCjcL4SRVZWqy9ADwHiLClrg",
+        "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 겨울에는 진득한 Old Jazz🎺",
+        "description": "이어폰 착용을 권장합니다. ✔️해당 영상은 수익 창출을 하지 않습니다. 영상 내 광고는 유튜브에서 자동으로 삽입된 것이며, 발생 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vsw-ujh9I3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vsw-ujh9I3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vsw-ujh9I3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "로지밍rozyming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-06T00:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TXFQBonikNulGn683JqpBxPaoZo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gobw5k7-XY0"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-09T21:00:06Z",
+        "channelId": "UCCzKwUci2rcV-U-XZYVVTpA",
+        "title": "[Playlist] 상쾌한 아침, 브런치를 즐기며 듣는 재즈 l Morning Jazz, Brunch Jazz",
+        "description": "오늘도 다 같이 힘 내보아요! ✔️모든 음원은 직접 연주한 음원입니다. PlayList 0:00 Don't get around much anymore 3:27 The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gobw5k7-XY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gobw5k7-XY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gobw5k7-XY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "재즈 리스트 l Jazz List",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-09T21:00:06Z"
       }
     }
   ]

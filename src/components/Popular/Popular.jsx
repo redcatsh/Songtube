@@ -30,12 +30,17 @@ export default function Popular() {
               to={`/${item.id}`}
               state={{ item }} // 전달할 state!
             >
-              <img
-                src={String(item.snippet.thumbnails.high.url)}
-                alt="thumbnail"
-                className="thumbnail rounded-lg"
-              />
-              <h5 className="font-medium title">{item.snippet.title}</h5>
+              <div className="thumbnailWrapper">
+                <img
+                  src={String(item.snippet.thumbnails.high.url)}
+                  alt="thumbnail"
+                  className="thumbnail rounded-lg"
+                />
+              </div>
+
+              <h5 className="font-medium title mt-2 mb-1">
+                {item.snippet.title}
+              </h5>
               <p className="text-slate-500 text-sm">
                 {item.snippet.channelTitle}
               </p>

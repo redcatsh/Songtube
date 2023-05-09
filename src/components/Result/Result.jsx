@@ -3,6 +3,7 @@ import { useQuery } from "@tanstack/react-query";
 import { Link } from "react-router-dom";
 import { timeForToday } from "../../utils/util";
 import { useParams } from "react-router-dom";
+import "../Popular/Popular";
 export default function SearchResult() {
   const { keyword } = useParams();
   const {
@@ -20,18 +21,21 @@ export default function SearchResult() {
 
   if (error) return <p>{error}</p>;
   return (
-    <div>
-      <ul>
+    <div className="wrapper">
+      <ul className="grid gap-4">
         {search.items.map((item) => (
-          <li className="videoItem" key={item.id}>
+          <li className="videoItem" key={item.id.videoId}>
             <Link
               to={`/${item.id.videoId}`}
               state={{ item }} // 전달할 state!
             >
-              <img
-                src={String(item.snippet.thumbnails.medium.url)}
-                alt="thumbnail"
-              />
+              <div className="thumbnailWrapper">
+                <img
+                  src={String(item.snippet.thumbnails.high.url)}
+                  alt="thumbnail"
+                  className="thumbnail rounded-lg"
+                />
+              </div>
               <h5 className="font-medium title">{item.snippet.title}</h5>
               <p className="text-slate-500 text-sm">
                 {item.snippet.channelTitle}
