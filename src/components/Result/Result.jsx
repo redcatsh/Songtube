@@ -23,13 +23,11 @@ export default function SearchResult() {
     <div>
       <ul>
         {search.items.map((item) => (
-          <Link
-            to={`/${item.id.videoId}`}
-            state={{ item }} // 전달할 state!
-            className="videoItem"
-            key={item.id}
-          >
-            <li>
+          <li className="videoItem" key={item.id}>
+            <Link
+              to={`/${item.id.videoId}`}
+              state={{ item }} // 전달할 state!
+            >
               <img
                 src={String(item.snippet.thumbnails.medium.url)}
                 alt="thumbnail"
@@ -41,8 +39,8 @@ export default function SearchResult() {
               <p className="text-slate-500 text-sm">
                 {timeForToday(item.snippet.publishTime)}
               </p>
-            </li>
-          </Link>
+            </Link>
+          </li>
         ))}
       </ul>
     </div>

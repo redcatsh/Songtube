@@ -11,8 +11,8 @@ export default function Popular() {
     data: popular,
   } = useQuery(["popular"], async () => {
     return fetch(
-      // `data/popular.json`
-      `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=25&regionCode=KR&key=***REMOVED***`
+      `data/popular.json`
+      // `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=25&regionCode=KR&key=***REMOVED***`
     ).then((res) => res.json());
   });
 
@@ -20,16 +20,14 @@ export default function Popular() {
 
   if (error) return <p>{error}</p>;
   return (
-    <div>
-      <ul>
+    <div className="wrapper">
+      <ul className="grid grid-cols-4 gap-4">
         {popular.items.map((item) => (
-          <Link
-            to={`/${item.id}`}
-            state={{ item }} // 전달할 state!
-            className="videoItem"
-            key={item.id}
-          >
-            <li>
+          <li className="videoItem" key={item.id}>
+            <Link
+              to={`/${item.id}`}
+              state={{ item }} // 전달할 state!
+            >
               <img
                 src={String(item.snippet.thumbnails.medium.url)}
                 alt="thumbnail"
@@ -44,8 +42,8 @@ export default function Popular() {
                 )}
                 회 ∙ {timeForToday(item.snippet.publishedAt)}
               </p>
-            </li>
-          </Link>
+            </Link>
+          </li>
         ))}
       </ul>
     </div>

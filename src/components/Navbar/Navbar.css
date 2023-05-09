@@ -1,0 +1,27 @@
+header {
+  background-color: var(--color-bg);
+}
+
+header .logoImg {
+  fill: var(--color-accent);
+  font-size: 3rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+  letter-spacing: -1px;
+  color: var(--color-text);
+}
+
+header input,
+header button {
+  border-color: var(--color-gray);
+}
+
+header button {
+  background-color: #d1d1d17a;
+}
+
+header button svg {
+  fill: var(--color-text);
+}

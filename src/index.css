@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --color-bg: #fff;
+  --color-gray: #d1d1d1;
+  --color-text: #222222;
+  --color-white: #fff;
+  --color-accent: #ff8f00;
+}
+
 @font-face {
   font-family: "Pretendard";
   src: url("./fonts/Pretendard-Thin.woff") format("woff");
@@ -214,4 +222,13 @@ button {
 
 input {
   outline: none;
+}
+
+html {
+  background-color: var(--color-bg);
+}
+.container {
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 0 2.5rem 2.5rem 2.5rem;
 }
