@@ -8,9 +8,6 @@ import NotFound from "./pages/NotFound";
 import VideoDetail from "./pages/VideoDetail";
 import SearchResult from "./pages/SearchResult";
 
-document.cookie = "safeCookie1=foo; SameSite=Lax";
-document.cookie = "safeCookie2=foo";
-document.cookie = "crossCookie=bar; SameSite=None; Secure";
 const router = createBrowserRouter([
   {
     path: "/",

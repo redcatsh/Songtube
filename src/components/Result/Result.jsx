@@ -10,10 +10,10 @@ export default function SearchResult() {
     error,
     data: search,
   } = useQuery(["search", keyword], async () => {
-    // return fetch(
-    //   `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${keyword}&key=***REMOVED***`
-    // )
-    return fetch(`/data/search.json`).then((res) => res.json());
+    return fetch(
+      // `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${keyword}&key=***REMOVED***`
+      `/data/search.json`
+    ).then((res) => res.json());
   });
 
   if (isLoading) return <p>Loading...</p>;

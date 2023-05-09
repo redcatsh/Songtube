@@ -13,7 +13,8 @@ export default function Channel() {
     data: channel,
   } = useQuery(["channel", item], async () => {
     return fetch(
-      `https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=${item.snippet.channelId}&key=***REMOVED***`
+      // `https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${item.snippet.channelId}&key=***REMOVED***`
+      `/data/channel.json`
     ).then((res) => res.json());
   });
   if (isLoading) return <p>Loading...</p>;
@@ -28,13 +29,13 @@ export default function Channel() {
             alt="thumbnail"
           />
           <p>{channelItem.snippet.title}</p>
-          {/* <p>
+          <p>
             구독자{" "}
             {common.compactNumberFormatter.format(
               channelItem.statistics.subscriberCount
             )}
             명
-          </p> */}
+          </p>
         </div>
       ))}
     </div>

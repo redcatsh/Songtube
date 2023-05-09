@@ -10,7 +10,10 @@ export default function Popular() {
     error,
     data: popular,
   } = useQuery(["popular"], async () => {
-    return fetch(`data/popular.json`).then((res) => res.json());
+    return fetch(
+      // `data/popular.json`
+      `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=25&regionCode=KR&key=***REMOVED***`
+    ).then((res) => res.json());
   });
 
   if (isLoading) return <p>Loading...</p>;
@@ -39,7 +42,7 @@ export default function Popular() {
                 {common.compactNumberFormatter.format(
                   item.statistics.viewCount
                 )}
-                회 ∙{timeForToday(item.snippet.publishedAt)}
+                회 ∙ {timeForToday(item.snippet.publishedAt)}
               </p>
             </li>
           </Link>
