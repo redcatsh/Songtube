@@ -1,9 +1,8 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
 import { timeForToday } from "../../utils/util";
-
 export default function Related() {
   const { keyword } = useParams();
   const {

@@ -2,6 +2,7 @@ import React from "react";
 import { useParams, useLocation } from "react-router-dom";
 import Related from "../components/Related/Related";
 import Channel from "../components/Channel/Channel";
+import { ScrollRestoration } from "react-router-dom";
 export default function VideoDetail() {
   const { videoId } = useParams();
   const {
@@ -10,6 +11,7 @@ export default function VideoDetail() {
   } = useLocation();
   return (
     <div>
+      <ScrollRestoration />
       <div>
         <iframe
           id="player"
