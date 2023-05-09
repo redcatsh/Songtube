@@ -5,7 +5,7 @@ import { AiFillYoutube } from "react-icons/ai";
 import "./Navbar.css";
 export default function Navbar() {
   return (
-    <header className="fixed w-full">
+    <header className="sticky w-full top-0">
       <div className="nav w-full flex py-3 justify-start items-center relative">
         <Link to="/" className="logo flex items-center font-bold">
           <AiFillYoutube className="logoImg" />

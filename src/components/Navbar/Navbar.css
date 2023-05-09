@@ -1,5 +1,6 @@
 header {
   background-color: var(--color-bg);
+  max-width: 1800px;
 }
 
 header .logoImg {

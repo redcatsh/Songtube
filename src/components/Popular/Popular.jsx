@@ -4,6 +4,7 @@ import { timeForToday } from "../../utils/util";
 import { Link } from "react-router-dom";
 import * as common from "../../utils/util";
 import "../Popular/Popular.css";
+
 export default function Popular() {
   const {
     isLoading,
@@ -12,16 +13,17 @@ export default function Popular() {
   } = useQuery(["popular"], async () => {
     return fetch(
       `data/popular.json`
-      // `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=25&regionCode=KR&key=***REMOVED***`
+      // `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=32&regionCode=KR&key=***REMOVED***`
     ).then((res) => res.json());
   });
 
   if (isLoading) return <p>Loading...</p>;
 
   if (error) return <p>{error}</p>;
+
   return (
     <div className="wrapper">
-      <ul className="grid grid-cols-4 gap-4">
+      <ul className="grid gap-4">
         {popular.items.map((item) => (
           <li className="videoItem" key={item.id}>
             <Link
@@ -29,8 +31,9 @@ export default function Popular() {
               state={{ item }} // 전달할 state!
             >
               <img
-                src={String(item.snippet.thumbnails.medium.url)}
+                src={String(item.snippet.thumbnails.high.url)}
                 alt="thumbnail"
+                className="thumbnail rounded-lg"
               />
               <h5 className="font-medium title">{item.snippet.title}</h5>
               <p className="text-slate-500 text-sm">

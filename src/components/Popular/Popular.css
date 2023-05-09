@@ -9,6 +9,11 @@
   line-height: 1.2;
 }
 
-.wrapper {
-  padding-top: 72px;
+.wrapper .grid {
+  grid-template-columns: repeat(auto-fill, minmax(295px, 1fr));
+}
+
+.thumbnail {
+  aspect-ratio: 16/9;
+  object-fit: cover;
 }
