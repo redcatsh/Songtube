@@ -16,8 +16,9 @@ export default function VideoDetail() {
           type="text/html"
           width="640"
           height="390"
-          src={`http://www.youtube.com/embed/${videoId}?`}
-          frameborder="0"
+          src={`http://www.youtube-nocookie.com/embed/${videoId}?`}
+          frameBorder="0"
+          title="title"
         ></iframe>
         <h5>{item.snippet.title}</h5>
         <Channel />

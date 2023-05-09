@@ -26,7 +26,7 @@ export default function Related() {
             to={`/${item.id.videoId}`}
             state={{ item }} // 전달할 state!
             className="videoItem"
-            key={item.id}
+            key={item.id.videoId}
           >
             <li>
               <img
