@@ -6,6 +6,7 @@ import Channel from "../components/Channel/Channel";
 import { ScrollRestoration } from "react-router-dom";
 import { timeForToday } from "../utils/util";
 import * as common from "../utils/util";
+import "../styles/Detail.css";
 
 export default function VideoDetail() {
   const { videoId } = useParams();
@@ -28,17 +29,16 @@ export default function VideoDetail() {
 
   if (error) return <p>{error}</p>;
   return (
-    <div>
+    <div className="wrapper flex flex-wrap">
       <ScrollRestoration />
-      <div>
+      <div className="lp flex-1 mr-6">
         <iframe
           id="player"
           type="text/html"
-          width="640"
-          height="390"
           src={`http://www.youtube-nocookie.com/embed/${videoId}?`}
           frameBorder="0"
           title="title"
+          className="w-full aspect-video"
         ></iframe>
         <h5 className="font-semibold">{item.snippet.title}</h5>
         <Channel />
@@ -49,10 +49,14 @@ export default function VideoDetail() {
             )}
             회 ∙ {timeForToday(item.snippet.publishedAt)}
           </p>
-          <p>{item.snippet.description}</p>
+          <p className="description whitespace-pre-wrap leading-6">
+            {item.snippet.description}
+          </p>
         </div>
       </div>
-      <Related />
+      <div className="rp basis-[27%]">
+        <Related />
+      </div>
     </div>
   );
 }

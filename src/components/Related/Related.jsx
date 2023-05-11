@@ -21,26 +21,31 @@ export default function Related() {
     <div>
       <ul>
         {related.items.map((item) => (
-          <Link
-            to={`/${item.id.videoId}`}
-            state={{ item }} // 전달할 state!
-            className="videoItem"
-            key={item.id.videoId}
-          >
-            <li>
-              <img
-                src={String(item.snippet.thumbnails.medium.url)}
-                alt="thumbnail"
-              />
-              <h5 className="font-medium title">{item.snippet.title}</h5>
-              <p className="text-slate-500 text-sm">
-                {item.snippet.channelTitle}
-              </p>
-              <p className="text-slate-500 text-sm">
-                {timeForToday(item.snippet.publishTime)}
-              </p>
-            </li>
-          </Link>
+          <li className="videoItem mt-4" key={item.id.videoId}>
+            <Link
+              to={`/${item.id.videoId}`}
+              state={{ item }} // 전달할 state!
+              className="flex"
+            >
+              <div className="w-[168px]">
+                <img
+                  src={String(item.snippet.thumbnails.high.url)}
+                  alt="thumbnail"
+                  className="thumbnail rounded-lg w-full"
+                />
+              </div>
+
+              <div className="flex flex-col flex-1 ml-2">
+                <h5 className="font-medium title">{item.snippet.title}</h5>
+                <p className="text-slate-500 text-sm">
+                  {item.snippet.channelTitle}
+                </p>
+                <p className="text-slate-500 text-sm">
+                  {timeForToday(item.snippet.publishTime)}
+                </p>
+              </div>
+            </Link>
+          </li>
         ))}
       </ul>
     </div>
