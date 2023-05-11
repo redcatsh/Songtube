@@ -4,13 +4,16 @@ import { useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
 import { timeForToday } from "../../utils/util";
 export default function Related() {
-  const { keyword } = useParams();
+  const { videoId } = useParams();
   const {
     isLoading,
     error,
     data: related,
-  } = useQuery(["related", keyword], async () => {
-    return fetch(`data/related.json`).then((res) => res.json());
+  } = useQuery(["related", videoId], async () => {
+    return fetch(
+      `data/related.json`
+      // `https://youtube.googleapis.com/youtube/v3/search?part=snippet&relatedToVideoId=${videoId}&type=video&maxResults=25&key=***REMOVED***`
+    ).then((res) => res.json());
   });
 
   if (isLoading) return <p>Loading...</p>;
@@ -36,7 +39,7 @@ export default function Related() {
               </div>
 
               <div className="flex flex-col flex-1 ml-2">
-                <h5 className="font-medium title">{item.snippet.title}</h5>
+                <h5 className="font-medium title mb-2">{item.snippet.title}</h5>
                 <p className="text-slate-500 text-sm">
                   {item.snippet.channelTitle}
                 </p>

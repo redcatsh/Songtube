@@ -21,8 +21,8 @@ export default function VideoDetail() {
     data: video,
   } = useQuery(["video", item], async () => {
     return fetch(
-      `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${videoId}&key=***REMOVED***`
-      // `/data/video.json`
+      // `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${videoId}&key=***REMOVED***`
+      `/data/video.json`
     ).then((res) => res.json());
   });
   if (isLoading) return <p>Loading...</p>;
@@ -40,7 +40,9 @@ export default function VideoDetail() {
           title="title"
           className="w-full aspect-video"
         ></iframe>
-        <h5 className="font-semibold">{item.snippet.title}</h5>
+        <h5 className=" vid-title font-semibold text-xl mt-2">
+          {item.snippet.title}
+        </h5>
         <Channel />
         <div>
           <p className="font-semibold">
@@ -54,7 +56,7 @@ export default function VideoDetail() {
           </p>
         </div>
       </div>
-      <div className="rp basis-[27%]">
+      <div className="rp basis-[363px]">
         <Related />
       </div>
     </div>

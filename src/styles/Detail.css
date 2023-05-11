@@ -1,3 +1,4 @@
-.description {
+.description,
+.vid-Title {
   color: var(--color-text);
 }
