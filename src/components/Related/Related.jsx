@@ -12,7 +12,7 @@ export default function Related() {
   } = useQuery(["related", videoId], async () => {
     return fetch(
       // `data/related.json`
-      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&relatedToVideoId=${videoId}&type=video&maxResults=25&key=***REMOVED***`
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&relatedToVideoId=${videoId}&type=video&maxResults=25&key=${process.env.REACT_APP_API_KEY}`
     ).then((res) => res.json());
   });
 

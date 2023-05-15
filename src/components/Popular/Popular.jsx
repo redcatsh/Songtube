@@ -13,7 +13,7 @@ export default function Popular() {
   } = useQuery(["popular"], async () => {
     return fetch(
       // `data/popular.json`
-      `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=32&regionCode=KR&key=***REMOVED***`
+      `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=32&regionCode=KR&key=${process.env.REACT_APP_API_KEY}`
     ).then((res) => res.json());
   });
 
