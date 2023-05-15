@@ -67,3 +67,7 @@
   height: 100%;
   border-color: var(--color-accent);
 }
+
+.subtext {
+  color: var(--color-subtext);
+}

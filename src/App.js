@@ -7,6 +7,7 @@ import Root from "./pages/Root";
 import NotFound from "./pages/NotFound";
 import VideoDetail from "./pages/VideoDetail";
 import SearchResult from "./pages/SearchResult";
+import { DarkModeProvider } from "./context/DarkModeContext";
 
 const router = createBrowserRouter([
   {
@@ -25,11 +26,13 @@ const queryClient = new QueryClient();
 
 function App() {
   return (
-    <QueryClientProvider client={queryClient}>
-      <RouterProvider router={router} />
+    <DarkModeProvider>
+      <QueryClientProvider client={queryClient}>
+        <RouterProvider router={router} />
 
-      <ReactQueryDevtools initialIsOpen={true} />
-    </QueryClientProvider>
+        <ReactQueryDevtools initialIsOpen={true} />
+      </QueryClientProvider>
+    </DarkModeProvider>
   );
 }
 

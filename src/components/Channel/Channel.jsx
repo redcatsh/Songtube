@@ -36,7 +36,7 @@ export default function Channel() {
             <p className="font-bold text-base channel-title">
               {channelItem.snippet.title}
             </p>
-            <p className="text-slate-500 text-sm">
+            <p className="subtext text-sm">
               구독자{" "}
               {common.compactNumberFormatter.format(
                 channelItem.statistics.subscriberCount

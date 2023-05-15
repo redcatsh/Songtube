@@ -2583,6 +2583,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@theme-toggles/react@npm:^4.1.0":
+  version: 4.1.0
+  resolution: "@theme-toggles/react@npm:4.1.0"
+  peerDependencies:
+    react: ^16 || ^17 || ^18
+    react-dom: ^16 || ^17 || ^18
+  checksum: b818e66140d093df1bf9599588eb94cfc196318c8cafc9245c58ddcb6c2262685894669cb81183aaf342fe9b75437e548993229a70ebebddcb59e229f3776ec4
+  languageName: node
+  linkType: hard
+
 "@tootallnate/once@npm:1":
   version: 1.1.2
   resolution: "@tootallnate/once@npm:1.1.2"
@@ -11522,6 +11532,7 @@ __metadata:
     "@testing-library/jest-dom": ^5.14.1
     "@testing-library/react": ^13.0.0
     "@testing-library/user-event": ^13.2.1
+    "@theme-toggles/react": ^4.1.0
     eslint-config-react-app: ^7.0.1
     react: ^18.2.0
     react-dom: ^18.2.0

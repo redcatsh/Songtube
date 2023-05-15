@@ -1,7 +1,8 @@
 .description,
-.vid-Title,
+.vid-title,
 .channel-title,
-.viewcount {
+.viewcount,
+.destoggle {
   color: var(--color-text);
 }
 

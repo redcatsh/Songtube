@@ -10,6 +10,20 @@
   --color-accent: #ff8f00;
   --color-box: #0000000d;
   --color-box-dark: #0000001a;
+  --color-subtext: #606060;
+  --color-trans: #f8f8f8;
+  --color-place: #9f9f9f;
+}
+
+html.dark {
+  --color-bg: #0f0f0f;
+  --color-text: #f1f1f1;
+  --color-box: #272727;
+  --color-box-dark: #3f3e3e;
+  --color-subtext: #aaaaaa;
+  --color-gray: #303030;
+  --color-trans: #ffffff14;
+  --color-place: #6f6f6f;
 }
 
 @font-face {

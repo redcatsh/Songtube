@@ -37,10 +37,8 @@ export default function SearchResult() {
                 />
               </div>
               <h5 className="font-medium title">{item.snippet.title}</h5>
-              <p className="text-slate-500 text-sm">
-                {item.snippet.channelTitle}
-              </p>
-              <p className="text-slate-500 text-sm">
+              <p className="subtext text-sm">{item.snippet.channelTitle}</p>
+              <p className="subtext text-sm">
                 {timeForToday(item.snippet.publishTime)}
               </p>
             </Link>

@@ -41,10 +41,8 @@ export default function Popular() {
               <h5 className="font-medium title mt-2 mb-1">
                 {item.snippet.title}
               </h5>
-              <p className="text-slate-500 text-sm">
-                {item.snippet.channelTitle}
-              </p>
-              <p className="text-slate-500 text-sm">
+              <p className="subtext text-sm">{item.snippet.channelTitle}</p>
+              <p className="subtext text-sm">
                 {common.compactNumberFormatter.format(
                   item.statistics.viewCount
                 )}

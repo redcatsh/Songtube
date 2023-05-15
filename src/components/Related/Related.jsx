@@ -40,10 +40,8 @@ export default function Related() {
 
               <div className="flex flex-col flex-1 ml-2">
                 <h5 className="font-medium title mb-2">{item.snippet.title}</h5>
-                <p className="text-slate-500 text-sm">
-                  {item.snippet.channelTitle}
-                </p>
-                <p className="text-slate-500 text-sm">
+                <p className="subtext text-sm">{item.snippet.channelTitle}</p>
+                <p className="subtext text-sm">
                   {timeForToday(item.snippet.publishTime)}
                 </p>
               </div>

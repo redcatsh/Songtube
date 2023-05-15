@@ -18,12 +18,22 @@ header .logoImg {
 header input,
 header button {
   border-color: var(--color-gray);
+  background-color: transparent;
 }
 
 header button {
-  background-color: #d1d1d17a;
+  background-color: var(--color-trans);
+  border-left: none !important;
 }
 
 header button svg {
   fill: var(--color-text);
+}
+
+header input::placeholder {
+  color: var(--color-place);
+}
+
+.mode svg {
+  fill: var(--color-accent);
 }

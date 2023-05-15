@@ -60,7 +60,9 @@ export default function VideoDetail() {
           >
             {video.items[0].snippet.description}
           </p>
-          <p className="text-sm mt-1">{isLong ? "간략히" : "더보기"}</p>
+          <p className="text-sm mt-1 destoggle">
+            {isLong ? "간략히" : "더보기"}
+          </p>
         </div>
       </div>
       <div className="rp basis-[363px]">
