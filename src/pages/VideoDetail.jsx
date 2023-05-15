@@ -1,5 +1,5 @@
-import React from "react";
-import { useParams, useLocation } from "react-router-dom";
+import React, { useState } from "react";
+import { useParams } from "react-router-dom";
 import Related from "../components/Related/Related";
 import { useQuery } from "@tanstack/react-query";
 import Channel from "../components/Channel/Channel";
@@ -9,17 +9,17 @@ import * as common from "../utils/util";
 import "../styles/Detail.css";
 
 export default function VideoDetail() {
-  const { videoId } = useParams();
-  const {
-    // useLocation으로 필요한 state를 받아온다!!
-    state: { item },
-  } = useLocation();
+  const [isLong, setIsLong] = useState(false);
+  const onClickLong = () => {
+    setIsLong((isLong) => !isLong);
+  };
 
+  const { videoId } = useParams();
   const {
     isLoading,
     error,
     data: video,
-  } = useQuery(["video", item], async () => {
+  } = useQuery(["video", videoId], async () => {
     return fetch(
       // `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${videoId}&key=***REMOVED***`
       `/data/video.json`
@@ -40,21 +40,27 @@ export default function VideoDetail() {
           title="title"
           className="w-full aspect-video"
         ></iframe>
-        <h5 className="vid-title font-bold text-xl mt-3 mb-5">
-          {item.snippet.title}
+        <h5 className="vid-title font-bold text-lg mt-3 mb-3">
+          {video.items[0].snippet.title}
         </h5>
         <Channel />
-        <div className="desbox rounded-2xl">
+        <div className="desbox rounded-2xl p-3" onClick={onClickLong}>
           <p className="font-bold text-sm viewcount">
             조회 수{" "}
             {common.compactNumberFormatter.format(
               video.items[0].statistics.viewCount
             )}
-            회 ∙ {timeForToday(item.snippet.publishedAt)}
+            회 ∙ {timeForToday(video.items[0].snippet.publishedAt)}
           </p>
-          <p className="description whitespace-pre-wrap leading-6">
-            {item.snippet.description}
+          <p
+            className={
+              "description whitespace-pre-wrap text-sm" +
+              (isLong ? " long" : "")
+            }
+          >
+            {video.items[0].snippet.description}
           </p>
+          <p className="text-sm mt-1">{isLong ? "간략히" : "더보기"}</p>
         </div>
       </div>
       <div className="rp basis-[363px]">

@@ -24,7 +24,7 @@ export default function Channel() {
   return (
     <div>
       {channel.items.map((channelItem) => (
-        <div key={channelItem.id} className="flex items-center mb-5">
+        <div key={channelItem.id} className="flex items-center mb-3">
           <div className="w-10 rounded-full mr-2">
             <img
               src={channelItem.snippet.thumbnails.medium.url}

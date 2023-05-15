@@ -7,4 +7,22 @@
 
 .desbox {
   background-color: var(--color-box);
+  cursor: pointer;
+}
+
+.desbox:hover {
+  background-color: var(--color-box-dark);
+}
+
+.description {
+  -webkit-line-clamp: 3;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  word-break: break-word;
+  display: -webkit-box;
+}
+
+.long {
+  -webkit-line-clamp: inherit;
 }
