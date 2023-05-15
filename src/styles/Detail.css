@@ -1,4 +1,10 @@
 .description,
-.vid-Title {
+.vid-Title,
+.channel-title,
+.viewcount {
   color: var(--color-text);
+}
+
+.desbox {
+  background-color: var(--color-box);
 }

@@ -2,6 +2,7 @@ import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { useLocation } from "react-router-dom";
 import * as common from "../../utils/util";
+import "../../styles/Detail.css";
 export default function Channel() {
   const {
     //    useLocation으로 필요한 state를 받아온다!!
@@ -23,19 +24,26 @@ export default function Channel() {
   return (
     <div>
       {channel.items.map((channelItem) => (
-        <div key={channelItem.id}>
-          <img
-            src={channelItem.snippet.thumbnails.medium.url}
-            alt="thumbnail"
-          />
-          <p>{channelItem.snippet.title}</p>
-          <p>
-            구독자{" "}
-            {common.compactNumberFormatter.format(
-              channelItem.statistics.subscriberCount
-            )}
-            명
-          </p>
+        <div key={channelItem.id} className="flex items-center mb-5">
+          <div className="w-10 rounded-full mr-2">
+            <img
+              src={channelItem.snippet.thumbnails.medium.url}
+              alt="thumbnail"
+              className="w-full"
+            />
+          </div>
+          <div>
+            <p className="font-bold text-base channel-title">
+              {channelItem.snippet.title}
+            </p>
+            <p className="text-slate-500 text-sm">
+              구독자{" "}
+              {common.compactNumberFormatter.format(
+                channelItem.statistics.subscriberCount
+              )}
+              명
+            </p>
+          </div>
         </div>
       ))}
     </div>

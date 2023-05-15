@@ -40,12 +40,13 @@ export default function VideoDetail() {
           title="title"
           className="w-full aspect-video"
         ></iframe>
-        <h5 className=" vid-title font-semibold text-xl mt-2">
+        <h5 className="vid-title font-bold text-xl mt-3 mb-5">
           {item.snippet.title}
         </h5>
         <Channel />
-        <div>
-          <p className="font-semibold">
+        <div className="desbox rounded-2xl">
+          <p className="font-bold text-sm viewcount">
+            조회 수{" "}
             {common.compactNumberFormatter.format(
               video.items[0].statistics.viewCount
             )}
