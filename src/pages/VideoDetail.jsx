@@ -35,7 +35,7 @@ export default function VideoDetail() {
         <iframe
           id="player"
           type="text/html"
-          src={`http://www.youtube-nocookie.com/embed/${videoId}?`}
+          src={`https://www.youtube-nocookie.com/embed/${videoId}?`}
           frameBorder="0"
           title="title"
           className="w-full aspect-video"
