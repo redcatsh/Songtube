@@ -12,8 +12,8 @@ export default function Popular() {
     data: popular,
   } = useQuery(["popular"], async () => {
     return fetch(
-      `data/popular.json`
-      // `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=32&regionCode=KR&key=***REMOVED***`
+      // `data/popular.json`
+      `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=32&regionCode=KR&key=***REMOVED***`
     ).then((res) => res.json());
   });
 

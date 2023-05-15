@@ -12,8 +12,8 @@ export default function SearchResult() {
     data: search,
   } = useQuery(["search", keyword], async () => {
     return fetch(
-      // `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${keyword}&key=***REMOVED***`
-      `/data/search.json`
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${keyword}&key=***REMOVED***`
+      // `/data/search.json`
     ).then((res) => res.json());
   });
 
@@ -36,7 +36,9 @@ export default function SearchResult() {
                   className="thumbnail rounded-lg"
                 />
               </div>
-              <h5 className="font-medium title">{item.snippet.title}</h5>
+              <h5 className="font-medium title mt-2 mb-1">
+                {item.snippet.title}
+              </h5>
               <p className="subtext text-sm">{item.snippet.channelTitle}</p>
               <p className="subtext text-sm">
                 {timeForToday(item.snippet.publishTime)}

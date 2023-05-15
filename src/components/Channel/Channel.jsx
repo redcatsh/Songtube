@@ -14,8 +14,8 @@ export default function Channel() {
     data: channel,
   } = useQuery(["channel", item], async () => {
     return fetch(
-      // `https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${item.snippet.channelId}&key=***REMOVED***`
-      `/data/channel.json`
+      `https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${item.snippet.channelId}&key=***REMOVED***`
+      // `/data/channel.json`
     ).then((res) => res.json());
   });
   if (isLoading) return <p>Loading...</p>;
@@ -25,11 +25,11 @@ export default function Channel() {
     <div>
       {channel.items.map((channelItem) => (
         <div key={channelItem.id} className="flex items-center mb-3">
-          <div className="w-10 rounded-full mr-2">
+          <div className="w-10 mr-2">
             <img
               src={channelItem.snippet.thumbnails.medium.url}
               alt="thumbnail"
-              className="w-full"
+              className="w-full rounded-full"
             />
           </div>
           <div>

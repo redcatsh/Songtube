@@ -33,6 +33,9 @@ header button svg {
 header input::placeholder {
   color: var(--color-place);
 }
+header input {
+  color: var(--color-text);
+}
 
 .mode svg {
   fill: var(--color-accent);

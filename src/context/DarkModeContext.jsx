@@ -5,8 +5,8 @@ export const DarkModeContext = createContext();
 export function DarkModeProvider({ children }) {
   const [darkMode, setDarkMode] = useState(false);
   const toggleDarkMode = () => {
-    setDarkMode((prev) => !prev);
-    updateDarkMode(!darkMode);
+    setDarkMode(!darkMode);
+    updateDarkMode(!darkMode); // 토글할 때마다 클래스를 add/remove 해주기 위해!
   };
 
   useEffect(() => {
