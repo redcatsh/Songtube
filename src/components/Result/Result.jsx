@@ -12,8 +12,8 @@ export default function SearchResult() {
     data: search,
   } = useQuery(["search", keyword], async () => {
     return fetch(
-      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${keyword}&key=${process.env.REACT_APP_API_KEY}`
-      // `/data/search.json`
+      // `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${keyword}&key=${process.env.REACT_APP_API_KEY}`
+      `/data/search.json`
     ).then((res) => res.json());
   });
 

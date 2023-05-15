@@ -40,3 +40,63 @@ header input {
 .mode svg {
   fill: var(--color-accent);
 }
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .nav {
+    flex-direction: column;
+  }
+
+  .form {
+    width: 100%;
+    position: relative;
+    transform: inherit;
+    top: 0;
+    left: 0;
+  }
+
+  .mode-wrapper {
+    position: absolute;
+    top: 1.4rem;
+    right: 0;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .nav {
+    flex-direction: column;
+  }
+
+  .form {
+    width: 100%;
+    position: relative;
+    transform: inherit;
+    top: 0;
+    left: 0;
+  }
+
+  .mode-wrapper {
+    position: absolute;
+    top: 1.4rem;
+    right: 0;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .nav {
+    flex-direction: column;
+  }
+
+  .form {
+    width: 100%;
+    position: relative;
+    transform: inherit;
+    top: 0;
+    left: 0;
+  }
+
+  .mode-wrapper {
+    position: absolute;
+    top: 1.4rem;
+    right: 0;
+  }
+}

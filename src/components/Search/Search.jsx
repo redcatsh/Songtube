@@ -14,7 +14,7 @@ export default function Search() {
     navigate(`result/${word}`);
   };
   return (
-    <div className="flex w-1/3 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
+    <div className="form flex w-1/3 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
       <form onSubmit={handleSubmit} className="w-full flex">
         <input
           type="text"

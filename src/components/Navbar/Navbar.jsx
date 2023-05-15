@@ -17,7 +17,7 @@ export default function Navbar() {
           SongTube
         </Link>
         <Search />
-        <div onClick={toggleDarkMode} className="h-[20px]">
+        <div onClick={toggleDarkMode} className="mode-wrapper h-[20px]">
           {darkMode ? (
             <Expand
               duration={750}
