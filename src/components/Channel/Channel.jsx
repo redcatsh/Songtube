@@ -14,8 +14,8 @@ export default function Channel() {
     data: channel,
   } = useQuery(["channel", item], async () => {
     return fetch(
-      // `https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${item.snippet.channelId}&key=${process.env.REACT_APP_API_KEY}`
-      `/data/channel.json`
+      `https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${item.snippet.channelId}&key=${process.env.REACT_APP_API_KEY}`
+      // `/data/channel.json`
     ).then((res) => res.json());
   });
   if (isLoading) return <p>Loading...</p>;
