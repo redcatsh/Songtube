@@ -1,7 +1,7 @@
 # React Youtube 클론코딩 프로젝트
 
 ## 배포링크
-<a href="https://songtube.netlify.app/">CurrentAir</a>
+<a href="https://songtube.netlify.app/">Songtuber</a>
 
 ### Stack
 - React
